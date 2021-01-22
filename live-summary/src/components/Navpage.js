@@ -4,7 +4,7 @@ import {Nav,Navbar,NavDropdown} from 'react-bootstrap';
 function Navpage() {
     return (
     <>
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="blue" expand="lg">
             <Navbar.Brand href="#home">Live Summary</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">

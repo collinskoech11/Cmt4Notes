@@ -3,7 +3,7 @@ import './style.css';
 
 function Home() {
     return (
-        <div>
+        <>
             <div className="row">
                 <a href="/System">
                     <div className="unit">
@@ -26,7 +26,7 @@ function Home() {
                     </div>
                 </a>
             </div>
-        </div>
+        </>
     )
 }
 
