@@ -18,7 +18,9 @@ function Navpage() {
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                 </NavDropdown>
+                <Nav.Link href="#home">Collaborators</Nav.Link>
                 </Nav>
+
                
             </Navbar.Collapse>
         </Navbar>

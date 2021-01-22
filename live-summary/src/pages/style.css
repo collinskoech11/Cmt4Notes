@@ -13,6 +13,7 @@
     width: 23%;
     padding: 1.5%;
     float: left;
+    text-decoration: none;
 }
 .row .unit{
     width: 100%;
@@ -29,6 +30,7 @@
 }
 .row .unit:hover{
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    text-decoration: none;
 }
 @media screen and (max-width:1000px){
     .row a{
