@@ -6,3 +6,7 @@
 .contain img:hover .legend{
     background-color: gray;
 }
+.contain h2{
+    background-color: transparent;
+    color: #fff;
+}

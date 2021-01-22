@@ -7,22 +7,22 @@ function Home() {
             <div className="row">
                 <a href="/System">
                     <div className="unit">
-                        <h1>CMT 440</h1>
+                        <h1>Computer Science Units</h1>
                     </div>
                 </a>
                 <a href="/System">
                     <div className="unit">
-                        <h1>CMT 440</h1>
+                        <h1>Faculty of law</h1>
                     </div>
                 </a>
                 <a href="/System">
                     <div className="unit">
-                        <h1>CMT 440</h1>
+                        <h1>Commerce Units</h1>
                     </div>
                 </a>
                 <a href="/System">
                     <div className="unit">
-                        <h1>CMT 440</h1>
+                        <h1>Mathematics Units </h1>
                     </div>
                 </a>
             </div>

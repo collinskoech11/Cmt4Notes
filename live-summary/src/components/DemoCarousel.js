@@ -8,16 +8,16 @@ class DemoCarousel extends Component {
         return (
             <Carousel>
                 <div className="contain">
-                    <img src="https://source.unsplash.com/1000x200/?pen" alt="Branch head profile"/>
-                    <p className="legend">Legend 1</p>
+                    <img src="https://source.unsplash.com/1000x200/?javascript" alt="Branch head profile"/>
+                    <h2>Studying has never been easier</h2>
                 </div>
                 <div className="contain">
                     <img src="https://source.unsplash.com/1000x200/?Computer" alt="Branch head profile" />
-                    <p className="legend">Legend 2</p>
+                    <h2>All content in one place </h2>
                 </div>
                 <div className="contain">
                     <img src="https://source.unsplash.com/1000x200/?Macbook" alt="Branch head profile" />
-                    <p className="legend">Legend 3</p>
+                    <h2>OPen source platform</h2>
                 </div>
             </Carousel>
         );
