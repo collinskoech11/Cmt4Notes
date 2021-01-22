@@ -1,12 +1,14 @@
 {
-  "name": "cmt-app",
+  "name": "live-summary",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "cra-template": "1.1.1",
-    "mdbreact": "^5.0.1",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1"
   },
   "scripts": {
