@@ -5,9 +5,26 @@ function Home() {
     return (
         <div>
             <div className="row">
-                <div className="unit">
-                    
-                </div>
+                <a href="/System">
+                    <div className="unit">
+                        <h1>CMT 440</h1>
+                    </div>
+                </a>
+                <a href="/System">
+                    <div className="unit">
+                        <h1>CMT 440</h1>
+                    </div>
+                </a>
+                <a href="/System">
+                    <div className="unit">
+                        <h1>CMT 440</h1>
+                    </div>
+                </a>
+                <a href="/System">
+                    <div className="unit">
+                        <h1>CMT 440</h1>
+                    </div>
+                </a>
             </div>
         </div>
     )
