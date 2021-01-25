@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <div className="row">
-                <a href="/System">
+                <a href="/CompuerScience">
                     <div className="unit">
                         <h1>Computer Science Units</h1>
                     </div>
