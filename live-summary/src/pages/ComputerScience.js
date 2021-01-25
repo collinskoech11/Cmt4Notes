@@ -5,7 +5,7 @@ function ComputerScience() {
     return (
         <>
         <div className="row">
-            <a href="/System">
+            <a href="/Cmt406">
                 <div className="unit">
                     <h1>CMT 406</h1>
                 </div>
