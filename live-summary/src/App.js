@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import Navpage from './components/Navpage';
 import FooterPage from './components/FooterPage';
-import DemoCarousel from './components/DemoCarousel'
+import DemoCarousel from './components/DemoCarousel';
 import ComputerScience from './pages/ComputerScience'
 
 function App() {
