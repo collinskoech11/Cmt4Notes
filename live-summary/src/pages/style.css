@@ -9,11 +9,23 @@
     display: inline-block;
     padding-left: 1%;
 }
+@media screen and (max-width:1000px){
+    .row{
+        height: auto;
+    }
+}
 .row a{
     width: 23%;
     padding: 1.5%;
     float: left;
     text-decoration: none;
+    color:navy;
+    font-weight: bold;
+}
+.row a:hover{
+    text-decoration:none;
+    color:navy;
+    font-weight: bold;
 }
 .row .unit{
     width: 100%;
