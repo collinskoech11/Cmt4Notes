@@ -3,11 +3,11 @@ import React from 'react'
 function Cmt406() {
     return (
         <div>
-            ICT  and Society  CMT 406
+            <h1>ICT  and Society  CMT 406</h1>
  
 
- introduction to  communication and ict
-  communication has improved and  evolved to facilitate out daily activities 
+            <h2>introduction to  communication and ict</h2>
+  <p>communication has improved and  evolved to facilitate out daily activities 
  In the 21st century, everything to do with communication utilities technology to disseminate information to a larger audience.
  Information can be sent out in many ways such as email, Phones, Radio TV Electronic newspaper
  Information refers to knowledge obtained from reading , investigating studying or research
@@ -15,18 +15,19 @@ function Cmt406() {
  Communication 
  The act of transmitting messages . Its a process whereby information is exchanged between individuals using symbols , signs  or verbal interactions 
  Communication is important to gain knowledge . With knowledge we are more confident in expressing  our thoughts and ideas
- 
- TECHNOLOGY 
- Use of scientific knowledge experience and resources to create processes and products that fulfill Human needs
- Technology is vital for communication
+ </p>
+
+ <h2>TECHNOLOGY </h2>
+ <p>Use of scientific knowledge experience and resources to create processes and products that fulfill Human needs
+ Technology is vital for communication</p>
   
  
- EVOLUTION OF COMPUTERS
+ <h2>EVOLUTION OF COMPUTERS</h2>
  
- First generation  1940 to 1956 
- They were huge slow expensive and often unreliable
+ <h3>First generation  1940 to 1956 </h3>
+ <p>They were huge slow expensive and often unreliable</p>
  
- In 1946 Two Americans by the name of Presper Eckert & William Mauchly  Build an  electronic numeric iterator and computer which was ENIAC. And it used vacuum tubes in stead of mechanic switches 
+ <p>In 1946 Two Americans by the name of Presper Eckert & William Mauchly  Build an  electronic numeric iterator and computer which was ENIAC. And it used vacuum tubes in stead of mechanic switches </p>
  
  In 1941 the two gentlemen built the UNIVAC which could calculator at the rate of 1000 additions per second 
  There were new technologies developed at this stage :
