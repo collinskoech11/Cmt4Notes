@@ -1,6 +1,7 @@
 import React from 'react';
 import './style.css';
 import DemoCarousel from '../components/DemoCarousel';
+import MyEditor from '../components/MyEditor'
 
 function Home() {
     return (
@@ -28,6 +29,7 @@ function Home() {
                     </div>
                 </a>
             </div>
+            <MyEditor/>
         </>
     )
 }
