@@ -76,43 +76,43 @@ function Cmt406() {
             ii)Customer service industry flourished </p>
             
             
-            Fourth Generation 1971 to Present 
+            <h3>Fourth Generation 1971 to Present </h3>
             
-            It took 55 years for the generation to evolve the growth of the computer industry developed technologies for computer inventions (hardware  && software)
-            There are many types of computer models that developed eg IBM, DELL, ACER etc
-            In 1971 Intel created the first microprocessor 
-            In 1976 Steve jobs created apple computer 
-            In 1981 IBM built the first personal computer 
-            Hardware technologies such as silicon chips, microprocessor and storage devices were invented 
+            <p>It took 55 years for the generation to evolve the growth of the computer industry developed technologies for computer inventions (hardware  && software)
+            There are many types of computer models that developed eg IBM, DELL, ACER etc <br/>
+            In 1971 Intel created the first microprocessor <br/>
+            In 1976 Steve jobs created apple computer <br/>
+            In 1981 IBM built the first personal computer <br/>
+            Hardware technologies such as silicon chips, microprocessor and storage devices were invented </p> 
             
-            Advantages 
-            I) The computer became 100times smaller than the first computer ENIAC
-            ii) There was an improvement in speed reliability and capacity
-            iii) Personal computers and software industry boomed
+            <h3>Advantages </h3>
+           <p> I) The computer became 100times smaller than the first computer ENIAC <br/>
+            ii) There was an improvement in speed reliability and capacity <br/>
+            iii) Personal computers and software industry boomed</p>
             
-            Fifth Generation (Present and Beyond)
+           <h3>Fifth Generation (Present and Beyond)</h3> 
             
-            The computers are technologically advanced and are still being developed to become more efficient
+           <p>The computers are technologically advanced and are still being developed to become more efficient
             The invention of this hardware tech has grown rapidly including many mordern computer devicessuch as silicon chips processors  Robotics VR Intelligent Systems  
-            
+            <br/><br/>
             After the 5th Generation the the of computer has become more advanced  modern and sophisticated 
-            with the latest invention in this era including (Mobile computers Main Frames Mobiles)
+            with the latest invention in this era including (Mobile computers Main Frames Mobiles)</p> 
             
             
-            Usage of ICT in Daily Lives 
-            These include Education sector 
-            •	Education sector
+            <h4>Usage of ICT in Daily Lives </h4>
+            <h5>These include Education sector </h5>
+           <h3> •	Education sector</h3>
             
-            Today Most schools and higher ed institution  have comps in classrooms for learners and teachers 
+           <p> Today Most schools and higher ed institution  have comps in classrooms for learners and teachers 
             In education everyone benefits from the use of ict
             Use of ICT in education sector has enhanced learning interactive experience cognitive development
             Teachers use computers to research teaching material , participate in online forums, as well as AIDING THEIR TEACHING
             Students use computers as reference tools 
             Researches use computers to collect data 
             School admins use computers for administrative purposes to ensure smooth operation
+            </p>
             
-            
-            •	Banking
+            <h3>•	Banking</h3>
             
             The computer is the nerve system of the banking sector It functions to control the banking system
             Banking provide 24hr services (ATM Check deposit E-transfer , Direct deposit)
@@ -120,27 +120,27 @@ function Cmt406() {
             Business men are able to access company accounts for loan applications business transactions update cash flow at any time 
             Bank admin can oversee banking activities such as inter-branch transfer etc by referring to the banking system
             
-            •	Industry
-            Computers are used to facilitate production, planning and ctrl system that support chain management  and helping product design
+            <h3>•	Industry</h3>
+            <p>Computers are used to facilitate production, planning and ctrl system that support chain management  and helping product design
             Workers researchers and admins benefit on the use of ict 
             Workers use machines that are connected to computers to operate.
             In some production robots are used to take over jobs that are risky to provide more efficiency
             Researchers use computers to analyze and collect research data for future reference 
-            Admins use computers to oversee entire operations in a factory or plant to detect specific errors or defects that occur in the process
+            Admins use computers to oversee entire operations in a factory or plant to detect specific errors or defects that occur in the process</p> 
             
             
-            •	E-commerce
-            Helps in boosting the economy It makes buying and selling activities easier and more efficient and faster. 
+           <h3> •	E-commerce</h3>
+            <p> Helps in boosting the economy It makes buying and selling activities easier and more efficient and faster. 
             In the ecommerce sector customers suppliers employees benefit from the usage of ICT 
             Customers are able to connect with suppliers online to purchase products this method saves time and cost  
             Suppliers use ICT to keep track of their transaction
             Products can be bar coded and read by computer scanners thus determining the price and managing the inventory
             Employees use computers and telephones to communicate with customers for any inquiries
-            The system help the employees to get the latest update on inventory to be informed to the customers 
+            The system help the employees to get the latest update on inventory to be informed to the customers </p>
             
-            •	Transport 
-            •	Health
-            •	Agriculture
+            <h3>•	Transport </h3>
+            <h3>•	Health</h3>
+            <h3>•	Agriculture</h3>
  
         </div>
     )
