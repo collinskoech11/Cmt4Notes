@@ -8,7 +8,7 @@ class DemoCarousel extends Component {
         return (
             <Carousel>
                 <div className="contain">
-                    <img src="https://source.unsplash.com/1000x200/?javascript" alt="Branch head profile"/>
+                    <img src="https://source.unsplash.com/1000x200/?android" alt="Branch head profile"/>
                     <h2>Studying has never been easier</h2>
                 </div>
                 <div className="contain">

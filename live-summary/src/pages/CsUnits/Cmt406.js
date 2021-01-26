@@ -1,8 +1,9 @@
 import React from 'react'
+import './style.css'
 
 function Cmt406() {
     return (
-        <div>
+        <div className="container">
             <h1>ICT  and Society  CMT 406</h1>
  
 

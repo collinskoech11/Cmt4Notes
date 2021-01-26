@@ -1,9 +1,11 @@
 import React from 'react';
 import './style.css';
+import DemoCarousel from '../components/DemoCarousel';
 
 function Home() {
     return (
         <>
+        <DemoCarousel/>
             <div className="row">
                 <a href="ComputerScience">
                     <div className="unit">
