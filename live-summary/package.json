@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@editorjs/editorjs": "^2.19.1",
     "bootstrap": "^4.6.0",
     "cra-template": "1.1.1",
     "draft-js": "^0.11.7",
