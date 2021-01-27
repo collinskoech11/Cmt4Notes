@@ -6,12 +6,14 @@ import FooterPage from './components/FooterPage';
 import ComputerScience from './pages/ComputerScience';
 import Cmt406 from './pages/CsUnits/Cmt406';
 import Cmt413 from './pages/CsUnits/Cmt413';
-import System from './pages/CsUnits/System'
+import System from './pages/CsUnits/System';
+import Loading from "./Loading";
 
 function App() {
   return (
     <div className="App">
       <Navpage/>
+      <Loading/>
       <Router>
        <Route exact path="/" component={Home}/>
        <Route path="/ComputerScience" component={ComputerScience}/>
