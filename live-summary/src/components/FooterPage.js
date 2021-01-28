@@ -3,38 +3,44 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 
 const FooterPage = () => {
   return (
-    <MDBFooter color="blue" className="font-small pt-4 mt-4">
-      <MDBContainer fluid className="text-center text-md-left">
-        <MDBRow>
-          <MDBCol md="6">
-            <h5 className="title">Footer Content</h5>
+    <MDBFooter color="white" className="page-footer font-small pt-0">
+      <div style={{ backgroundColor: "#6351ce" }}>
+        
+      </div>
+      <MDBContainer className="mt-5 mb-4 text-center text-md-left">
+        <MDBRow className="mt-3">
+          <MDBCol md="3" lg="4" xl="3" className="mb-4">
+            <h6 className="text-uppercase font-weight-bold">
+              <strong>Live Summary</strong>
+            </h6>
+            <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "60px" }} />
             <p>
-              Here you can use rows and columns here to organize your footer
-              content.
+              Live Summary 
             </p>
           </MDBCol>
-          <MDBCol md="6">
-            <h5 className="title">Links</h5>
-            <ul>
-              <li className="list-unstyled">
-                <a href="#!">Link 1</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 2</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 3</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 4</a>
-              </li>
-            </ul>
+          
+          
+          <MDBCol md="4" lg="3" xl="3" className="mb-4">
+            <h6 className="text-uppercase font-weight-bold">
+              <strong>Contact</strong>
+            </h6>
+            <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "60px" }} />
+            <p>
+              <i className="fa fa-home mr-3" /> Nairobi Kenya
+            </p>
+            <p>
+              <i className="fa fa-envelope mr-3" /> Live Summary
+            </p>
+            <p>
+              <i className="fa fa-phone mr-3" /> +254728000107
+            </p>
+            
           </MDBCol>
         </MDBRow>
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="https://www.mdbootstrap.com"> live Summary</a>
+          &copy; {new Date().getFullYear()} Copyright: <a href="/">Live Summary </a>
         </MDBContainer>
       </div>
     </MDBFooter>
