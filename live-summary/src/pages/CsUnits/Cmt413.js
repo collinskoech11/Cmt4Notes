@@ -85,7 +85,8 @@ function Cmt413() {
                <p>NB  Suppose a similar project was tried and never worked tread on that project carefully and identify reasons why the project failed 
                 pay attention to Personnel issues that could affect your project <br/>
                 Investigate the managers who started the project and how much stake they had then <br/>
-                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails</p>
+                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails <br/>
+                Investigate whether there exists a strategic bussiness or it plan </p>
         </div>
     )
 }
