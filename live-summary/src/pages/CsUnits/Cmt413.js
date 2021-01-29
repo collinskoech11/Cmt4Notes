@@ -79,6 +79,13 @@ function Cmt413() {
                 <p>In normal situation there are two things we avoid that’s politics ,  and religion  unfortunately the politics in technology is something we can never escape as designers <br/>
                 In case of office politics the best bet is to listen rather than talk <br/>
                 Your goal as a network designer is to understand the hidden agenda ,  tag wars biases group relations or history behind a project</p> 
+
+                <p> Be sure to find out if your project will cost any jobs to be eliminated </p>
+
+               <p>NB  Suppose a similar project was tried and never worked tread on that project carefully and identify reasons why the project failed 
+                pay attention to Personnel issues that could affect your project <br/>
+                Investigate the managers who started the project and how much stake they had then <br/>
+                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails</p>
         </div>
     )
 }
