@@ -116,7 +116,23 @@ function Cmt413() {
                 → Outsourcing expenses<br/>
                 
                 Within the budget work out closely with the client to identify requirements for new personnel<br/>
-                Equally identify personnel training which will affect the budget of the project 
+                Equally identify personnel training which will affect the budget of the project <br/>
+
+                In general it is a good idea to analyze the ability of the networking staff<br/>
+                To do this we focus on the following <br/>
+                → How much house expertise is there <br/>
+                → Should you recommend any training or outsourcing for network operations and management <br/>
+                ** to answer these questions the protocols you recommend will depend on abilities of the internal staff<br/>
+                The choice between in-house expertise and outsourced facilities is important and challenging such that a careful balance must be maintained <br/>
+                To ensure success of the project determine who controls the network budget <br/>
+                Regardless of who controls the budget one common network  design goal is to contain costs <br/>
+                Reduced budgets or limited resources often force designers to go for the most affordable solution instead of the best solution <br/>
+                If possible work with your customer to come up with ROI(Return on investment) for the network design <br/>
+                Usually make a business case to the consumer that explains how quickly the new network pay for itself due to reduced operational costs, Improved employee productivity or the enabling of  higher revenue on market expansion<br/>
+
+                ** concept paper for a company of choice to show how you are going to design the network and implement it Implication of the proposed design to the current design and justify why the org should adopt your design <br/>
+
+                Characterizing the existing inter networks <br/>
                 </p>
         </div>
     )
