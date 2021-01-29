@@ -1,10 +1,12 @@
 import React from 'react'
 import './style.css';
+import {Link} from 'react-router-dom';
 
 
 function Cmt406() {
     return (
         <div className="container">
+             <Link to="./docx/CMT406.docx" target="_blank" download> click to Download</Link>
             <h1>ICT  and Society  CMT 406</h1>
  
 

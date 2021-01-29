@@ -1,9 +1,10 @@
 import React from 'react';
-import './style.css'
-
+import './style.css';
+import {Link} from 'react-router-dom';
 function Cmt413() {
     return (
         <div className="container">
+            <Link to="./docx/CMT413.pdf" target="_blank" download> click to Download</Link>
             <h1>CMT 413 NETWORK AND SYSTEM ADMINISTRATION</h1>
 
             <h2>Applying technology in an environment </h2>
