@@ -12,7 +12,7 @@ function Navpage() {
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/ComputerScience">Courses</Nav.Link>
                 <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                    <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+                    <NavDropdown.Item href="/System">Action</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.2">Request push access</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.3">Report a problem </NavDropdown.Item>
                     <NavDropdown.Divider />
