@@ -113,7 +113,11 @@ function Cmt413() {
                 → Training <br/>
                 → Staffing <br/>
                 → Consulting fees <br/>
-                → Outsourcing expenses</p>
+                → Outsourcing expenses<br/>
+                
+                Within the budget work out closely with the client to identify requirements for new personnel<br/>
+                Equally identify personnel training which will affect the budget of the project 
+                </p>
         </div>
     )
 }
