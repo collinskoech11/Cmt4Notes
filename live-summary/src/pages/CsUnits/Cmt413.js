@@ -86,7 +86,34 @@ function Cmt413() {
                 pay attention to Personnel issues that could affect your project <br/>
                 Investigate the managers who started the project and how much stake they had then <br/>
                 Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails <br/>
-                Investigate whether there exists a strategic bussiness or it plan </p>
+                Investigate whether there exists a strategic bussiness or it plan <br/>
+                Your role as a designer is to ensure that the solution mast map to the overall strategic plan of the org <br/>
+                to do this you ask yourself some fundamental qn such as <br/>
+                → Does my network design need to fit in the overall architecture that is based on strategic planning <br/>
+                → Are The external regulatory or govt pressures affecting your design <br/>
+                Be prepared for possibility of formidable office politics <br/>
+                If your design/solution involves merging data and voice <br/>
+                Voice experts and data experts have traditionally lived a world apart and the greatest misfit between these two is mistrust <br/>
+
+                Understand the nature of the client and gain a feeling fr the client business style <br/>
+                You must know the client business style <br/>
+
+                Skills to develop <br/>
+                Humanistic skill <br/>
+                conceptual skill <br/>
+                Technological skill <br/>
+
+                <h3>Budgetary and Staffing Constraints</h3>
+                Your network design must fit the customers budget<br/>
+                Budget must include <br/>
+                → Equipment purchase <br/>
+                → Software license <br/>
+                → Maintenance and support agreement <br/>
+                → Testing <br/>
+                → Training <br/>
+                → Staffing <br/>
+                → Consulting fees <br/>
+                → Outsourcing expenses</p>
         </div>
     )
 }
