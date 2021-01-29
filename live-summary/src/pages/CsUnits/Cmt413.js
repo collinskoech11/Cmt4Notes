@@ -85,7 +85,55 @@ function Cmt413() {
                <p>NB  Suppose a similar project was tried and never worked tread on that project carefully and identify reasons why the project failed 
                 pay attention to Personnel issues that could affect your project <br/>
                 Investigate the managers who started the project and how much stake they had then <br/>
-                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails</p>
+                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails <br/>
+                Investigate whether there exists a strategic bussiness or it plan <br/>
+                Your role as a designer is to ensure that the solution mast map to the overall strategic plan of the org <br/>
+                to do this you ask yourself some fundamental qn such as <br/>
+                → Does my network design need to fit in the overall architecture that is based on strategic planning <br/>
+                → Are The external regulatory or govt pressures affecting your design <br/>
+                Be prepared for possibility of formidable office politics <br/>
+                If your design/solution involves merging data and voice <br/>
+                Voice experts and data experts have traditionally lived a world apart and the greatest misfit between these two is mistrust <br/>
+
+                Understand the nature of the client and gain a feeling fr the client business style <br/>
+                You must know the client business style <br/>
+
+                Skills to develop <br/>
+                Humanistic skill <br/>
+                conceptual skill <br/>
+                Technological skill <br/>
+
+                <h3>Budgetary and Staffing Constraints</h3>
+                Your network design must fit the customers budget<br/>
+                Budget must include <br/>
+                → Equipment purchase <br/>
+                → Software license <br/>
+                → Maintenance and support agreement <br/>
+                → Testing <br/>
+                → Training <br/>
+                → Staffing <br/>
+                → Consulting fees <br/>
+                → Outsourcing expenses<br/>
+                
+                Within the budget work out closely with the client to identify requirements for new personnel<br/>
+                Equally identify personnel training which will affect the budget of the project <br/>
+
+                In general it is a good idea to analyze the ability of the networking staff<br/>
+                To do this we focus on the following <br/>
+                → How much house expertise is there <br/>
+                → Should you recommend any training or outsourcing for network operations and management <br/>
+                ** to answer these questions the protocols you recommend will depend on abilities of the internal staff<br/>
+                The choice between in-house expertise and outsourced facilities is important and challenging such that a careful balance must be maintained <br/>
+                To ensure success of the project determine who controls the network budget <br/>
+                Regardless of who controls the budget one common network  design goal is to contain costs <br/>
+                Reduced budgets or limited resources often force designers to go for the most affordable solution instead of the best solution <br/>
+                If possible work with your customer to come up with ROI(Return on investment) for the network design <br/>
+                Usually make a business case to the consumer that explains how quickly the new network pay for itself due to reduced operational costs, Improved employee productivity or the enabling of  higher revenue on market expansion<br/>
+
+                ** concept paper for a company of choice to show how you are going to design the network and implement it Implication of the proposed design to the current design and justify why the org should adopt your design <br/>
+
+                Characterizing the existing inter networks <br/>
+                </p>
         </div>
     )
 }

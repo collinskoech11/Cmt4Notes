@@ -1,6 +1,9 @@
 p{
     text-align: left;
 }
+p h3{
+    text-align:center;
+}
 .container{
     padding: 20px;
 }
