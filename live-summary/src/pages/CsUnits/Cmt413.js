@@ -53,6 +53,39 @@ function Cmt413() {
                 → Planning and implementing adequate security <br/>
                 → Developing Ways of fixing errors and problems which occur <br/>
                 → Keeping track of and understanding use of the enormous amount of knowledge which increases every year</p>
+
+
+               <h3> Top Down Network design </h3>
+
+               <p>1 Understanding customer design <br/>
+                2 Logical Network Design <br/>
+                3 Physical Network Design <br/>
+                4 Testing Optimization & documenting your network design </p> 
+
+               <h3> Understanding customer needs and  goals </h3>
+
+                <p>
+                → Analyzing business goals and constraints <br/>
+                → Analyzing technical goals and constraints <br/>
+                → Characterizing the existing inter networks <br/>
+                → Characterizing Network traffic </p>
+
+
+               <p>when analyzing the system goals which determine your customer needs must incorporate the new and the existing applications 
+                NB It is not necessary that you only design a new network but you can improve on the already existing infrastructure 
+                The key point is to analyze what will affect the network design </p> 
+
+               <h3> Politics and Policies </h3>
+                <p>In normal situation there are two things we avoid that’s politics ,  and religion  unfortunately the politics in technology is something we can never escape as designers <br/>
+                In case of office politics the best bet is to listen rather than talk <br/>
+                Your goal as a network designer is to understand the hidden agenda ,  tag wars biases group relations or history behind a project</p> 
+
+                <p> Be sure to find out if your project will cost any jobs to be eliminated </p>
+
+               <p>NB  Suppose a similar project was tried and never worked tread on that project carefully and identify reasons why the project failed 
+                pay attention to Personnel issues that could affect your project <br/>
+                Investigate the managers who started the project and how much stake they had then <br/>
+                Some network design projects  involve automating tasks that were once done by highly paid workers , such workers would work so hard to ensure your project fails</p>
         </div>
     )
 }
