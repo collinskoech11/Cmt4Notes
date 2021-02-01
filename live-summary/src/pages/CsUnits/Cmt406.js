@@ -145,6 +145,82 @@ function Cmt406() {
             <h3>•	Transport </h3>
             <h3>•	Health</h3>
             <h3>•	Agriculture</h3>
+
+            <h2>Computerised vs Non-Computerised</h2>
+            <p>
+            A system is an arrangement of elements that have been put together  in order to achieve an organized and established  goal 
+            A system  therefore consists  of components connected together in order to facilitate the flow of information , matter or energy
+            
+            A computer system consists of a set of hardware or software that processes data in a meaningful way to produce information
+            </p>
+            <div className="table">
+                <div className="row">
+                    <div className="data">
+
+                    </div>
+                    <div className="data">
+                        Non  Computerized
+                    </div>
+                    <div className="data">
+                        Computerised
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="data">
+                        Banking 
+                    </div>
+                    <div className="data">
+                        Non-Computerized 
+                    </div>
+                    <div className="data">
+                       Computerized
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="data">
+
+                    </div>
+                    <div className="data">
+                        Records maintained manually 
+                    </div>
+                    <div className="data">
+                       
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="data">
+
+                    </div>
+                    <div className="data">
+                        Transaction only done during working hours 
+                    </div>
+                    <div className="data">
+                        Not Time Limited 24/7
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="data">
+
+                    </div>
+                    <div className="data">
+                        Transactions were branch specific 
+                    </div>
+                    <div className="data">
+                       
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="data">
+
+                    </div>
+                    <div className="data">
+                        Manual approval of documents (Time consuming & costly) 
+                    </div>
+                    <div className="data">
+                       
+                    </div>
+                </div>
+            </div>
  
         </div>
     )

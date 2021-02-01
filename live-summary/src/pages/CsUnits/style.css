@@ -7,3 +7,25 @@ p h3{
 .container{
     padding: 20px;
 }
+
+
+.table{
+    width:100%;
+    height: auto;
+}
+.row{
+    width:100%;
+    height:auto;
+    display: inline-block;
+}
+.data{
+    width:30%;
+    height: auto;
+    float:left;
+    border:1px solid black;
+}
+@media screen and (max-width:1000px){
+    .data{
+        height:50px;
+    }
+}
