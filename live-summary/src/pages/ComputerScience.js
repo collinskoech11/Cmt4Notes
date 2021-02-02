@@ -32,9 +32,9 @@ function ComputerScience() {
                     <h1>CMT 405</h1>
                 </div>
             </a>
-            <a href="/System">
+            <a href="/Cmt440">
                 <div className="unit">
-                    <h1>CMT 408</h1>
+                    <h1>CMT 440</h1>
                 </div>
             </a>
         </div>
