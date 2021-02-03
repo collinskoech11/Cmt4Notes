@@ -10,51 +10,51 @@ function Cmt440() {
                 a sudden increase demand for IT professionals having machine learning 
                 skills.
                 
-                Objective of the course
+                <h3>Objective of the course</h3>
                 -------------------------------
-                1.What is the crux of machine learning?
-                2.What are the different types of machine learning?
-                3.What are the different algorithms available for developing machine
-                learning models?
-                4.What  tools are available for developing these models?
-                7.What are the programming choices?
-                8.What platform support developement and deployment of machine learning application
-                9.What IDES (Integrated developement Evironment) are available.
-                10.How to upgrade your skills to this important area.
+                1.What is the crux of machine learning? <br/>
+                2.What are the different types of machine learning?<br/>
+                3.What are the different algorithms available for developing machine<br/>
+                learning models?<br/>
+                4.What  tools are available for developing these models?<br/>
+                7.What are the programming choices?<br/>
+                8.What platform support developement and deployment of machine learning application<br/>
+                9.What IDES (Integrated developement Evironment) are available.<br/>
+                10.How to upgrade your skills to this important area.<br/>
                 
                 
-                What AI can do
+               <h3> What AI can do</h3>
                 --------------------
-                -Taging a face in a facebook photo.
-                -AI that is  running behind the scenes and identifying faces 
-                -Automous cars running on roads detect object in real time to steer the car.
-                -Object detection technic in real time helps to learn the real-time traffic situation and 
-                follow the bes path(Google direction)
-                -Google translator, helps in communications.
+                -Taging a face in a facebook photo.<br/>
+                -AI that is  running behind the scenes and identifying faces <br/>
+                -Automous cars running on roads detect object in real time to steer the car.<br/>
+                -Object detection technic in real time helps to learn the real-time traffic situation and <br/>
+                follow the bes path(Google direction)<br/>
+                -Google translator, helps in communications.<br/>
                 
-                -The advantange of AI is that it can it can perform extremely complex
-                jobs with a great accuracy and speed.
-                -For example the google direction suggest the fastest path to our destination that time instance.
-                -It can judge the traffic situation in every possible path to give
-                you a travel time estimate for each such path.
-                -Alot of AI and machine learning techniques are in-use under the hoods of  google
-                direction so that it can cover the entire globe.
+                -The advantange of AI is that it can it can perform extremely complex<br/>
+                jobs with a great accuracy and speed.<br/>
+                -For example the google direction suggest the fastest path to our destination that time instance.<br/>
+                -It can judge the traffic situation in every possible path to give<br/>
+                you a travel time estimate for each such path.<br/>
+                -Alot of AI and machine learning techniques are in-use under the hoods of  google<br/>
+                direction so that it can cover the entire globe.<br/>
                 
-                Statistical techniques that are used  for developing AI applications
+                <h3>Statistical techniques that are used  for developing AI applications</h3>
                 -------------------------------------------------------------------------
-                -Regression
-                -Classification
-                -Clustering
-                -Probabilities Theories
-                -Decision trees
-                -Satistical techniques  is used to develop AI with limited data.
-                -Advanced methods such as the deep lerning can solve the many complex problems.
+                -Regression<br/>
+                -Classification<br/>
+                -Clustering<br/>
+                -Probabilities Theories<br/>
+                -Decision trees<br/>
+                -Satistical techniques  is used to develop AI with limited data.<br/>
+                -Advanced methods such as the deep lerning can solve the many complex problems.<br/>
                 
-                    What is machine learning
+                   <h3> What is machine learning</h3>
                     --------------------------
-                -Machine learing  is like an act of using the statistical optimazation techniques to  find out the equation 
-                for the best curve.
-                -It uses the optimazation technique to find the solution to problem.
+                -Machine learing  is like an act of using the statistical optimazation techniques to  find out the equation <br/>
+                for the best curve.<br/>
+                -It uses the optimazation technique to find the solution to problem.<br/>
                     
                     Categories of machine learning
                     --------------------------------
@@ -65,9 +65,9 @@ function Cmt440() {
                 -Deep reinforcement learning (drl)
                 
                 
-                ->ul - machine is made to learn on its own without any supervision.
-                ->sl - ie the case of  housing price prediction.
-                ->dl - human brain is simulated  in the artificial neural network(ANN) created in binary computers.
+                -ul - machine is made to learn on its own without any supervision.
+                -sl - ie the case of  housing price prediction.
+                -dl - human brain is simulated  in the artificial neural network(ANN) created in binary computers.
                 -Machine learn on its own using the high computing power and huge memory resources that are available today.
                 
                 
