@@ -10,6 +10,8 @@ function Navpage() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                 <Nav.Link href="/">Home</Nav.Link>
+                <Nav.Link href="/">Upcoming Assignments</Nav.Link>
+                <Nav.Link href="/">Exam Prediction</Nav.Link>
                 <Nav.Link href="/ComputerScience">Courses</Nav.Link>
                 <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                     <NavDropdown.Item href="/System">Action</NavDropdown.Item>
