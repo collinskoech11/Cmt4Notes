@@ -31,7 +31,6 @@ function App() {
        <Route path="/Cmt440" component={Cmt440}/>
        <Route path="/System" component={System}/>
       </Router>
-      <Popup/>
       <FooterPage/>
       <ScrollTop />
     </div>
