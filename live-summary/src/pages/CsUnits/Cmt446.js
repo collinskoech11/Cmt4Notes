@@ -36,7 +36,7 @@ function Cmt446() {
                     
                     
 
-            Issues and challenges of ISA
+            <h3>Issues and challenges of ISACA</h3>
             ---------------------------------
             -All organinsation must work within the framework of laws and regulations.<br/>
             -These rules may dictate how data is processed, handled, stored and destroyed.<br/>
@@ -44,7 +44,7 @@ function Cmt446() {
             -They will be liable if personal data is disclosed to an unauthorized person.<br/>
             -Safe harbor act - this act prohibits the transfer of personal data to non-auropeam union(Nation) that do not meet  the european standard for privacy protection.<br/>
 
-            Regulation standards includes:<br/>
+           <h3> Regulation standards includes:</h3><br/>
             -----------------------------------
             -U.S Health and portability and accountability act(HIPAA)<br/>
             -sarbanes-oxley act<br/>
@@ -68,7 +68,7 @@ function Cmt446() {
             -Determine whether employees are  complying with ...<br/>
 
 
-            -Audit planning<br/>
+           <h3> -Audit planning</h3><br/>
             ------------------
             -the goal of an audit function is to present an independent  and objective evaluation to the state of internal control.<br/>
             -the audit function require an audit chart.<br/>
@@ -79,19 +79,19 @@ function Cmt446() {
             -short term planning also tarctical planning which  looks at issue the organisation is currently facing.<br/>
 
 
-            ISACA<br/>
+            <h3>ISACA</h3><br/>
             --------
             -Its standard are developed by the ISACA's board.<br/>
             
             
-                standard Document <br/>
+                <h3>standard Document </h3><br/>
                 ---------------------
             - professional Ethics and standard<br/>
             - performance of audit work<br/>
                 -Use of risk accessment<br/>
                 
                 
-                Guideline Document<br/>
+                <h3>Guideline Document</h3><br/>
                 ------------------------
                 -using the work of other auditors<br/>
                 -use of computer assistence technique<br/>
@@ -103,12 +103,12 @@ function Cmt446() {
                 -Guided document  on online banking.<br/>
                 
                 
-                Procedure documents<br/>
+               <h3> Procedure documents</h3><br/>
                 -----------------------
                 -information system risk accessment<br/>
                 -irregularities and business act<br/>
                 
-                ISACA   code of ethics<br/>
+                <h3>ISACA   code of ethics</h3><br/>
                 -------------------------
                 -Ethics goes beyond human requirement.<br/>
                 -they are define values and principles that define human behavior.<br/>
@@ -119,7 +119,7 @@ function Cmt446() {
                             -serve in the interest of law holders in a lawful <br/>
                             -maintain the privacy of information obtain in the cause of their duties unless required by the authory.<br/>
                             
-                Risk analysis<br/>
+                <h3>Risk analysis</h3><br/>
                 ---------------
                 -Model networks and systems are highly complex.<br/>
                 - risk is the pottential for harm.<br/>
@@ -136,7 +136,7 @@ function Cmt446() {
                 
                 -high risk - Risk that threaten financial........ <br/>
                 
-                Risk management<br/>
+               <h3> Risk management</h3><br/>
                 -------------------
                 -follows a define process which includes:<br/>
                         -develop a risk management <br/>
@@ -144,14 +144,14 @@ function Cmt446() {
                         -peform risk mitigation<br/>
                         -monitor<br/>
             
-            -Risk can be hundled/mitigating in 4 way:<br/>
+            <h3>-Risk can be hundled/mitigating in 4 way:</h3><br/>
                         -avoid risk.<br/>
                         -Reduce risk ie installing a firewall in place. <br/>
                         -accepting risk - Retaining the potential cost  that is obtained by ...<br/>
                         -Transfering the risk- the organisation faces the risk on behave of someone ie the insurance.<br/>
                         -
                         
-                Risk based audit<br/>
+              <h3>  Risk based audit</h3><br/>
                 ----------------------
             -Steps followed in a :<br/>
                     1-gather information and plan<br/>
@@ -167,7 +167,7 @@ function Cmt446() {
                 
                 
                 
-                Auditing of internal control <br/>
+               <h3> Auditing of internal control </h3><br/>
                 ----------------------------------
                 -conterol tipocal start with high level policy and applies in all area in company <br/>
                 -information system - verifies that the information system are mentained in a controled state <br/>
