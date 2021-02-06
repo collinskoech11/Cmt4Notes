@@ -1,7 +1,7 @@
 import React from 'react';
-import {FocusTrap } from focus-trap-react
+import {FocusTrap } from 'focus-trap-react';
 
-const Trigger = ({ triggerText, buttonRef, showModal }) => {
+const TriggerButton = ({ triggerText, buttonRef, showModal }) => {
 return (
     <FocusTrap>
         <button
@@ -14,4 +14,4 @@ return (
     </FocusTrap>
     );
  };
-export default Trigger;
+export default TriggerButton;
