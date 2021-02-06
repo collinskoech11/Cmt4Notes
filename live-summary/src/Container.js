@@ -3,6 +3,20 @@ import { Modal } from '../Modal';
 import TriggerButton from '../TriggerButton';
 export class Container extends Component {
 state = { isShown: false };
+showModal = () => {
+    this.setState({ isShown: true }, () => {
+    this.closeButton.focus();
+    this.toggleScrollLock();
+    });
+  };
+  toggleScrollLock = () => {
+    document.querySelector('html').classList.toggle('scroll-lock');
+    };
+    closeModal = () => {
+        this.setState({ isShown: false });
+        this.TriggerButton.focus();
+        this.toggleScrollLock();
+        };
 render() {
 return (
 <React.Fragment>
