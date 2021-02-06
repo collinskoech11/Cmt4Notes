@@ -8,6 +8,7 @@
     "cra-template": "1.1.1",
     "draft-js": "^0.11.7",
     "express": "^4.17.1",
+    "focus-trap-react": "^8.4.1",
     "mdbreact": "^5.0.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
