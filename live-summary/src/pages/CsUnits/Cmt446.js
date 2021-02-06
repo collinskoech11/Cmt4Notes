@@ -8,7 +8,7 @@ function Cmt446() {
                       <h1>  CMT 446  page five</h1>
             -----------
             <p>
-            Introduction To Information Systen Audit
+            <h3>Introduction To Information Systen Audit</h3>
             ------------------------------------------
             -Book - Certified information system Auditor()<br/>
             -Auditor - Review the strength of the information system control and report their capability to protect the organisation's assets.<br/>
@@ -19,14 +19,14 @@ function Cmt446() {
                     
                     Step by step general process in evalaluating the desing and operation of internal control<br/>
                     -------------------------------------------------------------------------------------------
-            -Verifying compliance with external  regulations<br/>
+            <h3>-Verifying compliance with external  regulations</h3><br/>
                                     -identify the external requirement with which the company is responsible for being in compliance.<br/>
                                     -Review specific laws and regulations with which the organisation must be compliance.<br/>
                                     -Determine whether the organisation  considered these laws and regulations when policies and procedure were developed.<br/>
                                     -Determine whether identified policies and procedures adheres to external laws and requirements.<br/>
                                     -Determine whether the employees are adhering to specific policies and procedure or whether discrepancies exit.<br/>
                                     
-                                    Audit planning <br/>
+                                  <h3>  Audit planning </h3><br/>
                                     -------------------
                                 -The goal of the audit  function is to presesnt an independent  and <br/>
                                     objective evaluation of the state of the internal control with appropriate  recommendation to mitigate any detected risks if applicable.<br/>
