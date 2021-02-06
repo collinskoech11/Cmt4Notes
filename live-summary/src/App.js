@@ -3,8 +3,7 @@ import Home from './pages/Home';
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import Navpage from './components/Navpage';
 import FooterPage from './components/FooterPage';
-import { Container } from './Container';
-import { Filler } from './Filler';
+
 import ComputerScience from './pages/ComputerScience';
 import Cmt406 from './pages/CsUnits/Cmt406';
 import Cmt408 from './pages/CsUnits/Cmt408';
@@ -18,11 +17,6 @@ import ScrollTop from "react-scrolltop-button";
 
 function App() {
 
-  const triggerText = 'Open Form';
-   const onSubmit = (event) => {
-   event.preventDefault(event);
-   console.log(event.target.name.value);
-   console.log(event.target.email.value);
 
   return (
     <div className="App">
@@ -41,14 +35,9 @@ function App() {
       </Router>
       <FooterPage/>
       <ScrollTop />
-      <Filler />
-      <Container triggerText={triggerText} onSubmit={onSubmit} />  
-      <Filler />
-      <Filler />
-      <Filler />
-      <Filler />
+      
     </div>
   );
 }
-}
+
 export default App;
