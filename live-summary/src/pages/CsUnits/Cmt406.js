@@ -221,7 +221,18 @@ function Cmt406() {
                     </div>
                 </div>
             </div>
- 
+            <p>
+                <h3>Problems by ICT </h3>
+                Pligarism <br/>
+                <h3>Computer Ethics</h3>
+                There are three major areas <br/>
+                Copyright<br/>
+                Netiquette<br/> 
+                Daay to Day ethic<br/>
+               Intellectual Property: Creation of intellect i.e Inventions Neutral and artistic works Symbols Name sImages and designs <br/>
+
+              
+            </p>
         </div>
     )
 }
