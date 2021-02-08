@@ -252,6 +252,7 @@ function Cmt406() {
                     Protect your personal information To acoid malicious activities on the data 
 
                 iii) Spamming : Sending of unsolicited  bulk and/or commercial messages over the internet 
+                    -> It is morally bad as it is intended to destroy and done by infringing on the right of privacy by others 
                     
             </h3>
               
