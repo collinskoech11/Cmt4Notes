@@ -311,6 +311,14 @@ function Cmt406() {
         <h3>REspecting property</h3>
         INdividuals data or info is considered property therefore an act of manipulatio=ng it is disrespect of property
             </p>
+
+
+
+
+            ****Two weeks due 
+            1) Dsicusss similarities between ethics and law 
+                -Discuss the difference between ethics and law 
+            2) REfer to the computer misyuse and cyber crime act 2018 and Intellectual property act and briefflly discuss their opinion on intellectual property 
         </div>
     )
 }
