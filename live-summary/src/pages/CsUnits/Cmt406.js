@@ -237,7 +237,7 @@ function Cmt406() {
 
 
 
-            <h3>Netiquette are the verious   relating to usage of the internet  Its about proper ways to use a network and determine whether the information is reliable While emphasising Four important factors 
+            <h3>Netiquette</h3> are the verious   relating to usage of the internet  Its about proper ways to use a network and determine whether the information is reliable While emphasising Four important factors 
                 i) Real people exist behind the computers 
                     -> It is important to consider that as you send in the chat window remember you are dealing with people not machines (Think Twice)
                     -> REmeber you are not the one using the network/Internet 
@@ -258,8 +258,8 @@ function Cmt406() {
                 iv) Help make the network better 
                  -> Existance of the information society is based on
                  making a contribution is an essential part of building a network 
-                    
-            </h3>
+            <h3>Software Piracy</h3>
+             It is morally bad to reproduce Aa copy of software and sell it for free or produce exactly the same or similar version without credditting the author 
               
             </p>
         </div>
