@@ -240,6 +240,8 @@ function Cmt406() {
             <h3>Netiquette are the verious   relating to usage of the internet  Its about proper ways to use a network and determine whether the information is reliable While emphasising Four important factors 
                 i) Real people exist behind the computers 
                     -> It is important to consider that as you send in the chat window remember you are dealing with people not machines (Think Twice)
+                    -> REmeber you are not the one using the network/Internet 
+                    -> Keep other people in mind 
             </h3>
               
             </p>
