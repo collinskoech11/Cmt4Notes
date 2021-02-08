@@ -243,6 +243,9 @@ function Cmt406() {
                     -> REmeber you are not the one using the network/Internet 
                     > Keep other people in mind as you share sth on the network /interne =-t 
                 ii) Protect your private data 
+                    ->  Just as you would in the real world take note 
+                    fraud 
+                    false info on the internet 
             </h3>
               
             </p>
