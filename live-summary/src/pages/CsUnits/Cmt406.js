@@ -254,6 +254,10 @@ function Cmt406() {
                 iii) Spamming : Sending of unsolicited  bulk and/or commercial messages over the internet 
                     -> It is morally bad as it is intended to destroy and done by infringing on the right of privacy by others 
                     -> It is good  that the message sent benefits the recipient 
+                
+                iv) Help make the network better 
+                 -> Existance of the information society is based on
+                 making a contribution is an essential part of building a network 
                     
             </h3>
               
