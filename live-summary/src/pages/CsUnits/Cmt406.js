@@ -290,6 +290,9 @@ function Cmt406() {
 
 
             ** Difference between ethics and laws 
+            Law is a legal system comprisinfg of lrules that govern the affairs of a community and controll policy of a community 
+            Law differ from one country to another 
+            computer laws refer to all areas that 
             </p>
         </div>
     )
