@@ -259,8 +259,12 @@ function Cmt406() {
                  -> Existance of the information society is based on
                  making a contribution is an essential part of building a network 
             <h3>Software Piracy</h3>
-             It is morally bad to reproduce Aa copy of software and sell it for free or produce exactly the same or similar version without credditting the author 
-              
+             It is morally bad to reproduce a copy of software and sell it for free or produce exactly the same or similar version without credditting the author 
+              <h3>Creation of Worms or computer viruses </h3> 
+
+              It is unethical especially when intended for malicious purposes 
+              Pligarism
+              Copying someones work and passing it off as your own  
             </p>
         </div>
     )
