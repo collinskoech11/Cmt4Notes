@@ -286,6 +286,10 @@ function Cmt406() {
             -- Thou shall not appropriate other peoples intellectual output
             -- Thou shall think about the social consequences of the programm you are writing 
             --Thou shall always use a copmputer in ways that ensure respect of fellow humans
+
+
+
+            ** Difference between ethics and laws 
             </p>
         </div>
     )
