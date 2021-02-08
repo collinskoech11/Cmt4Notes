@@ -316,10 +316,12 @@ function Cmt406() {
 
 
             ****Two weeks due 
-            1) Dsicusss similarities between ethics and law 
-                -Discuss the difference between ethics and law 
+            1) Dsicusss similarities between ethics and law (4mks)
+                -Discuss the difference between ethics and law (5mks)
             2) REfer to the computer misyuse and cyber crime act 2018 and Intellectual property act and briefflly discuss their opinion on intellectual property 
             3) Describe Cyber crimes(3)
+            Intellectual property(2mks)
+            Cyber Crime (2mks)
         </div>
     )
 }
