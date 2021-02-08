@@ -230,7 +230,14 @@ function Cmt406() {
                 Netiquette<br/> 
                 Daay to Day ethic<br/>
                Intellectual Property: Creation of intellect i.e Inventions Neutral and artistic works Symbols Name sImages and designs <br/>
+                    It is divided into 
+                    i)Industrial property: Protects inventions <br/>
+                    ii) Copyright:Protects Litteral and artistic work<br/>
 
+
+
+
+            <h3>Netiquette</h3>
               
             </p>
         </div>
