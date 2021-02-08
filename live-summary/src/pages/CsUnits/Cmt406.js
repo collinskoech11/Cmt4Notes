@@ -293,6 +293,17 @@ function Cmt406() {
             Law is a legal system comprisinfg of lrules that govern the affairs of a community and controll policy of a community 
             Law differ from one country to another 
             computer laws refer to all areas that 
+            In Kenya -- we have the compuer misuse and cyber crimes act of 2018
+            --KenyA Intellectual property act 
+        
+
+        <h3>Why do we need ethics and laws in computing for : </h3>
+        i) REspecting ownership 
+        ii) Respecting Privacy 
+        iii) Respecting Property
+
+        <h3>Respecting ownership</h3>
+        --by not stealing other peoples wrk either by duplicating or distributing 
             </p>
         </div>
     )
