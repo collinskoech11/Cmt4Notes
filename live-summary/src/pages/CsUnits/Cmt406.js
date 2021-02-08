@@ -304,6 +304,12 @@ function Cmt406() {
 
         <h3>Respecting ownership</h3>
         --by not stealing other peoples wrk either by duplicating or distributing 
+
+        <h3>Respecting Privacy</h3>
+        We should resp[ect other peoples privacy by refraining from reading other peoples mails or files without their permission 
+
+        <h3>REspecting property</h3>
+        INdividuals data or info is considered property therefore an act of manipulatio=ng it is disrespect of property
             </p>
         </div>
     )
