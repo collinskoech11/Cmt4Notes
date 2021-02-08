@@ -241,7 +241,8 @@ function Cmt406() {
                 i) Real people exist behind the computers 
                     -> It is important to consider that as you send in the chat window remember you are dealing with people not machines (Think Twice)
                     -> REmeber you are not the one using the network/Internet 
-                    -> Keep other people in mind 
+                    > Keep other people in mind as you share sth on the network /interne =-t 
+                ii) Protect your private data 
             </h3>
               
             </p>
