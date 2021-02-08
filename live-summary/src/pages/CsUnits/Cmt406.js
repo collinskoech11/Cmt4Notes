@@ -251,7 +251,8 @@ function Cmt406() {
                     Always try not to further spread unreliable info 
                     Protect your personal information To acoid malicious activities on the data 
 
-                iii) Spamming
+                iii) Spamming : Sending of unsolicited  bulk and/or commercial messages over the internet 
+                    
             </h3>
               
             </p>
