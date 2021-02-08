@@ -246,6 +246,10 @@ function Cmt406() {
                     ->  Just as you would in the real world take note 
                     fraud 
                     false info on the internet 
+                    Use common sense to determine whether the info is valid
+                    Dont further spread information with which you are in doubt.
+                    Always try not to further spread unreliable info 
+                    Protect your personal information To acoid malicious activities on the data 
             </h3>
               
             </p>
