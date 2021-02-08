@@ -263,7 +263,7 @@ function Cmt406() {
               <h3>Creation of Worms or computer viruses </h3> 
 
               It is unethical especially when intended for malicious purposes 
-              Pligarism
+             <h3> Pligarism </h3>
               Copying someones work and passing it off as your own  
             </p>
         </div>
