@@ -270,6 +270,22 @@ function Cmt406() {
               Hacking is morally bad if it is intended to steal private info and destroy a computer system 
               <h3>File Privacy</h3>
               Any Document produced aither by an individual made privately must remain private 
+              No one should open the document unless authorised by the individual       
+            
+
+
+
+            **To sum all that up 
+            - <h3>Top ten rules of computer ethics </h3>
+            --Thou shall not use a computer to harm other people 
+            -- Thoun  shall not interfere with other people s computer work 
+            --THou shall not snoop around other peoples computers 
+            -- THou shall not use a computer to bare false witness
+            -- Thou shall not copy or use propretory software for which is unpaid for 
+            --THou shall not use other peoples comp resources without authorisation
+            -- Thou shall not appropriate other peoples intellectual output
+            -- Thou shall think about the social consequences of the programm you are writing 
+            --Thou shall always use a copmputer in ways that ensure respect of fellow humans
             </p>
         </div>
     )
