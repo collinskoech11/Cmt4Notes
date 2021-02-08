@@ -265,6 +265,9 @@ function Cmt406() {
               It is unethical especially when intended for malicious purposes 
              <h3> Pligarism </h3>
               Copying someones work and passing it off as your own  
+              <h3>Hacking</h3>
+              ILlegally accessing other peoples systems to either destroy disrupt or carry out illegal activity 
+              Hacking is morally bad if it is intended to steal private info and destroy a computer system 
             </p>
         </div>
     )
