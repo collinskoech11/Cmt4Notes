@@ -56,181 +56,181 @@ function Cmt440() {
                 for the best curve.<br/>
                 -It uses the optimazation technique to find the solution to problem.<br/>
                     
-                    Categories of machine learning
+                   <h3> Categories of machine learning</h3>
                     --------------------------------
-                -Supervised learning (sl)
-                -Unsupervised learning( ul)
-                -Reinforcement leaning(rl)
-                -Deep learning(dl)
-                -Deep reinforcement learning (drl)
+                -Supervised learning (sl)<br/>
+                -Unsupervised learning( ul)<br/>
+                -Reinforcement leaning(rl)<br/>
+                -Deep learning(dl)<br/>
+                -Deep reinforcement learning (drl)<br/>
                 
                 
-                -ul - machine is made to learn on its own without any supervision.
-                -sl - ie the case of  housing price prediction.
-                -dl - human brain is simulated  in the artificial neural network(ANN) created in binary computers.
-                -Machine learn on its own using the high computing power and huge memory resources that are available today.
+                -ul - machine is made to learn on its own without any supervision.<br/>
+                -sl - ie the case of  housing price prediction.<br/>
+                -dl - human brain is simulated  in the artificial neural network(ANN) created in binary computers.<br/>
+                -Machine learn on its own using the high computing power and huge memory resources that are available today.<br/>
                 
                 
                 
-                Growth of machine learning 
+              <h3>  Growth of machine learning </h3>
                 --------------------------------
-                -Speech recognition,  natural language processing.
-                -Computer vision
-                -Medical outcome analysis
-                -Robot control
-                -Computational biology
-                -Sensor networks.
+                -Speech recognition,  natural language processing.<br/>
+                -Computer vision<br/>
+                -Medical outcome analysis<br/>
+                -Robot control<br/>
+                -Computational biology<br/>
+                -Sensor networks.<br/>
                 
-                -Trending - Big data
-                            Improved machine learning algorithms
-                            faster computers
-                            Good open-source software.
+                -Trending - Big data<br/>
+                            Improved machine learning algorithms<br/>
+                            faster computers<br/>
+                            Good open-source software.<br/>
                             
-                Supervised learning
+               <h3> Supervised learning</h3>
                 -----------------------
-                -Analogous to training a child to walk.
+                -Analogous to training a child to walk.<br/>
                 
-                Regression
+               <h3> Regression<br/></h3>
                 -------------
-                -Similar to supervised learning accept  that you give a concrete known examples to the
-                computer.
+                -Similar to supervised learning accept  that you give a concrete known examples to the<br/>
+                computer.<br/>
                 
-                Classification 
+              <h3>  Classification </h3>
                 ---------------
-                -You classify objects of similar nature into a single groups.
+                -You classify objects of similar nature into a single groups.<br/>
                 
-                Unsupervised learning
+              <h3>  Unsupervised learning</h3>
                 ---------------------
-                -Do not  specify a target variable to the machine, rather we ask machine what it can tell about a
-                specific object.
-                -To reach at this point the is a large number  of dataset  points that  the machine would require to 
-                deduce .
-                -For the case of supervised a machine need to be trained with even few thousands of data points.
-                -For the cause of unsupervised learning, the number of data point that is reasonable 
-                accepted for learning start in a few millions.
-                -data idealy requires  curating.
-                -Data Curating - is the organisation and integration  of data collection from various source.
-                                - It involve annotation, publication and presentation of data such that the value of the data is maintained over time.
-                                    and data remains available  for reuse and preservation.
+                -Do not  specify a target variable to the machine, rather we ask machine what it can tell about a<br/>
+                specific object.<br/>
+                -To reach at this point the is a large number  of dataset  points that  the machine would require to <br/>
+                deduce .<br/>
+                -For the case of supervised a machine need to be trained with even few thousands of data points.<br/>
+                -For the cause of unsupervised learning, the number of data point that is reasonable <br/>
+                accepted for learning start in a few millions.<br/>
+                -data idealy requires  curating.<br/>
+                -Data Curating - is the organisation and integration  of data collection from various source.<br/>
+                                - It involve annotation, publication and presentation of data such that the value of the data is maintained over time.<br/>
+                                    and data remains available  for reuse and preservation.<br/>
                                     
-                Reinforcement learning 
+             <h3>   Reinforcement learning </h3>
                 ----------------------
-                -Initially developed for machine to play Games.
-                -The machine is given an algorithm  to analyze all possible moves at each  stage of the game.
-                -The machine can select one of the move at random.
-                -If the move is right,  the machine is rewarded, otherwise it may be penalized.
-                -Slowly the machine started differenciating between right and wrong moves.
-                -After a several iteration it started it would learn to solve the game puzzle with a better accuracy.
-                -The accuracy of winning the game would improve as  the machine plays more and more games.
+                -Initially developed for machine to play Games.<br/>
+                -The machine is given an algorithm  to analyze all possible moves at each  stage of the game.<br/>
+                -The machine can select one of the move at random.<br/>
+                -If the move is right,  the machine is rewarded, otherwise it may be penalized.<br/>
+                -Slowly the machine started differenciating between right and wrong moves.<br/>
+                -After a several iteration it started it would learn to solve the game puzzle with a better accuracy.<br/>
+                -The accuracy of winning the game would improve as  the machine plays more and more games.<br/>
                 
                 
-                How does the supervised learning different from the  reinforcement learning 
+              <h3>  How does the supervised learning different from the  reinforcement learning </h3>
                 ------------------------------------------------------------------------------
-                -Reinforcement learning need not supply the labelled input/output pairs.
-                their focus is on finding the  the balance  betweeen exploring new solution verse exploiting the
-                learned  solution.
+                -Reinforcement learning need not supply the labelled input/output pairs.<br/>
+                their focus is on finding the  the balance  betweeen exploring new solution verse exploiting the<br/>
+                learned  solution.<br/>
                 
                 
                 
-                DEEP LEARNING
+             <h3>   DEEP LEARNING</h3>
                 ---------------------
-                -A model based on Artificial Neural  Network(ANN),  more specifically,
-                convolution  neueal networks(CNN),.
-                -It used architectures such as:
-                                                Deep neursl network
-                                                Deep belief network
-                                                Recurrent neural network
-                                                convolution neural network.
-                -This networks have been successfully applied in  solving the problems of:
-                                            computer vision
-                                            speech recognition
-                                            natural language processing
-                                            bioinformatic
-                                            drug design
-                                            medical image analysis
-                                            games
-                -Requires huge processing power and humongous data.
+                -A model based on Artificial Neural  Network(ANN),  more specifically,<br/>
+                convolution  neueal networks(CNN),.<br/>
+                -It used architectures such as:<br/>
+                                                Deep neursl network<br/>
+                                                Deep belief network<br/>
+                                                Recurrent neural network<br/>
+                                                convolution neural network.<br/>
+                <h3>-This networks have been successfully applied in  solving the problems of:<br/>
+                                            computer vision<br/>
+                                            speech recognition<br/>
+                                            natural language processing<br/>
+                                            bioinformatic<br/>
+                                            drug design<br/>
+                                            medical image analysis<br/>
+                                            games<br/>
+                -Requires huge processing power and humongous data.<br/>
                 
                 
-                Deep reinforcement learning
+              <h3>  Deep reinforcement learning<br/></h3>
                 ---------------------------------
-                -Combines the techinques of both deep  and reiforcement learning.
-                -Reiforcement learning algorithm like Q-like are now combined with  deep learning  to create a powerful DRL model.
-                -It has been with great success in fields such as:
-                                                Robotics
-                                                Video Games
-                                                Finance
-                                                Healthcare
+                -Combines the techinques of both deep  and reiforcement learning.<br/>
+                -Reiforcement learning algorithm like Q-like are now combined with  deep learning  to create a powerful DRL model.<br/>
+                -It has been with great success in fields such as:<br/>
+                                                Robotics<br/>
+                                                Video Games<br/>
+                                                Finance<br/>
+                                                Healthcare<br/>
                                                 
                                                 
                                                 
+                                                <br/>
                                                 
-                                                
-                    Application  ares of machine learning
+                   <h3> Application  ares of machine learning</h3>
                     -------------------------------------------
-                    -Traffic alerts
-                    -Social media
-                    -transport and commuting
-                    -Products recommendations
-                    -Virtual  personal assistant
-                    -self driving cars
-                    -Dynamic pricing
-                    -Google Translate
-                    -Online Video streaming
-                    -Fraud Detection.
+                    -Traffic alerts<br/>
+                    -Social media<br/>
+                    -transport and commuting<br/>
+                    -Products recommendations<br/>
+                    -Virtual  personal assistant<br/>
+                    -self driving cars<br/>
+                    -Dynamic pricing<br/>
+                    -Google Translate<br/>
+                    -Online Video streaming<br/>
+                    -Fraud Detection.<br/>
                     
                     
-                    Social media(FACEBOOK)
+                   <h3> Social media(FACEBOOK)</h3>
                     ---------------------------
-                    -Automatic friend tagging suggestions.
-                    -It uses face detection and image recognition to autmatically find the face of the person which 
-                    matches its' database and hence suggests for us to tag that person based on Deepface.
-                    -Deep learning is responsible for  recognistion of the faces and identifying which person 
-                    is in the picture. 
-                    -It also provides an alternative tag.
+                    -Automatic friend tagging suggestions.<br/>
+                    -It uses face detection and image recognition to autmatically find the face of the person which <br/>
+                    matches its' database and hence suggests for us to tag that person based on Deepface.<br/>
+                    -Deep learning is responsible for  recognistion of the faces and identifying which person <br/>
+                    is in the picture. <br/>
+                    -It also provides an alternative tag.<br/>
                     
-                    
-                    Transportation and commuting(Uber)
+                    <h3>
+                    Transportation and commuting(Uber)</h3>
                     ----------------------------------------
-                    -For the case of booking a cab.
-                    -It  provides  a personalized application which is unique  to you.
-                    -It automatically detects your locations. 
-                    -It also provide options to either go home  or office or any other frequent place based on your History or pattern.
-                    -Is uses machine learning algorithms layered on top of historic trips data to make more accurate ETA prediction.
+                    -For the case of booking a cab.<br/>
+                    -It  provides  a personalized application which <br/>is uniq<br/>ue  to you.<br/>
+                    -It automatically detects your locations. <br/>
+                    -It also provide options to either go home  or office or any other frequent place based on your History or pattern.<br/>
+                    -Is uses machine learning algorithms layered on top of historic trips data to make more accurate ETA prediction.<br/>
                     
-                    Production Recommendation 
+                   <h3> Production Recommendation </h3>
                     ---------------------------------
-                    -Ads appearing across all you social media platform.
-                    -This happens beacuse google tracks your search mhistory and recommends ads based on your search history.
+                    -Ads appearing across all you social media platform.<br/>
+                    -This happens beacuse google tracks your search mhistory and recommends ads based on your search history.<br/>
                     
-                    Virtual personal assistants
+                   <h3> Virtual personal assistants</h3>
                     ------------------------------
-                    -Helps in finding useful information , when asked via text or voice.
-                    -Major applications of  machine learning 
-                                    Speech  recognition
-                                    Speech to text conversion
-                                    Natural language processing.
-                                    Text to speech conversion
-                    -Examples are:
-                                siri, Alexa, google, cortana
-                                                
+                    -Helps in finding useful information , when asked via text or voice.<br/>
+                    -Major applications of  machine learning <br/>
+                                    Speech  recognition<br/>
+                                    Speech to text conversion<br/>
+                                    Natural language processing.<br/>
+                                    Text to speech conversion<br/>
+                    -Examples are:<br/>
+                                siri, Alexa, google, cortana<br/>
+                                                <br/>
                 
                 
-                Traditional AI
+               <h3> Traditional AI</h3>
                 --------------------
                 
                 
                 
-                    CHAPTER 2
+                   <h3> CHAPTER 2</h3>
                     ------------------
-                -Machine learning 
+               <h3> -Machine learning </h3>
                 ------------------------
                 -ML - is a collection of algorithms and techniques used to build system that learns from data.
                 -Then the system can then perform prediction by finding pattern in the data.
                 -It sweeps traditional programming in  a certain cases.
                 
                 
-                Difference between machine learning and traditional programming 
+               <h3> Difference between machine learning and traditional programming </h3>
                 ----------------------------------------------------------------------
                 Traditional programming                                        machine learnig 
                 -------------------------------------------------------------------------------
@@ -241,14 +241,14 @@ function Cmt440() {
                 ---------------------------------------------------------------------------------------------------------------------
                 3.
                 
-                Machine learning composses of the following descipline;
+               <h3> Machine learning composses of the following descipline;</h3>
                     scientific computing
                     mathematics
                     statistics
                     
                     
-                    
-                    Why machine learning 
+                    </h3>
+                   <h3> Why machine learning </h3>
                     -----------------------------
                 -E-mail filter program  without using ml step by step
                     1.identify how the spam email looks like.
@@ -259,22 +259,22 @@ function Cmt440() {
                     -if in any case the email sender change email template, program need to update it manually.
                     unlike the ML which will detect this automatically, and adapt to new data.
                 
-                When should you use machine learning 
+              <h3>  When should you use machine learning </h3>
                 ---------------------------------------------
                 -
                 
                 
                 
-                            CHAPTER  2
+                         <h3>   CHAPTER  2</h3>
                             -----------------
-                Date processing in machine learning
+               <h3> Date processing in machine learning</h3>
                 -------------------------------------
                 -A process of preparing the raw  data and making it suitable for a machine learning model.
                 -First and crucial step while creating  a machine learning model.
                 -Faculitates the cleaning and formating of data.
 
 
-                Why do we need Data processing
+               <h3> Why do we need Data processing</h3>
                 -----------------------------------
                 -Real world data generally Contains noise, missing values and even unusable format which cannot be directly used by machine learning model.
                 -This will increase the efficiency  and accuracy of a machine learning model.
@@ -290,7 +290,7 @@ function Cmt440() {
                 
                 
                 
-                Getting the datasets
+              <h3>  Getting the datasets</h3>
                 ----------------------
                 -requires since a machine requires data to work.
                 -Dataset - is a prober formated collection of data for a particular problem.
@@ -298,7 +298,7 @@ function Cmt440() {
                         - should be put into a csv file in  order to use it our code(also HTML or xlsx file)
                         
                         
-                What is a CSV file
+              <h3>  What is a CSV file</h3>
                 -----------------------
                 -Stands for Comma-separated value.
                 -It is a file format which allows us to save the tabular data, such as speedsheet.
@@ -307,7 +307,7 @@ function Cmt440() {
                 
                 
                 
-                Importing libraries
+              <h3>  Importing libraries</h3>
                 --------------------------
                 -Used to perform specific jobs.
                 -The specific libraries   used in data preprocessing:
@@ -326,7 +326,7 @@ function Cmt440() {
                                 
                                 
                                 
-                            importing the datasets
+                         <h3>   importing the datasets</h3>
                             -----------------------
                 -procedure:
                             import the datasets which we have collected  for our machine learning project.
@@ -344,10 +344,9 @@ function Cmt440() {
                 
                 
                 
-                
-                LESSON 3 01/01/2021
+              <h3>  LESSON 3 01/01/2021</h3>
                 ---------------------------
-                Simple Linear regrassion in machine learning 
+               <h3> Simple Linear regrassion in machine learning </h3>
                 --------------------------------------------------
                 -A type of algorithm that model the relationship between a dependent variable and a single independent variable.
                 -This relation is  linear or a sloped straight line, hence called simple linear regression.
@@ -355,7 +354,7 @@ function Cmt440() {
                             1.Model a relationship bewteen the two variable. - ie relationship between income and expenditure, experience and salaries.
                             2.Forecasting new observations - ie weather forecasting according to temperature, revenue of a company according to the investment in a year.
                             
-                    simple linear regression model
+                  <h3>  simple linear regression model</h3>
                     ------------------------------------
                     - Represented using the following equation:
                             y = a0+a1x+ε 
@@ -366,7 +365,7 @@ function Cmt440() {
                 
                 
                 
-                Implementation of simple linear regresssion algorithm using python
+              <h3>  Implementation of simple linear regresssion algorithm using python</h3>
                 -------------------------------------------------------------------------
                 -Take a dataset that has two variables.
                 -Salary(dependant variable) and experience(independent variable)
@@ -375,7 +374,7 @@ function Cmt440() {
                                                 -How the depenfent  variables is changing by changing the dependent variable.
                                                 
                 -steps:
-                        1 - Data pre-processing 
+                      <h3>  1 - Data pre-processing </h3>
                         --------------------------
                     -import the three important libraries, which will help us for loading the dataset,
                     plot the graph, and create  the simple lenear regression model.
@@ -394,7 +393,6 @@ function Cmt440() {
                                 y = data_set.iloc[:,1].values
                 - -1 removes the last column from the dataset.
                 -We can see the x (independent) variable and y(dependent) variable has been extracted from the given daaset.
-                
                 -We can spit dataset  so that we can train the model using a teaining dataset and ten test the 
                     dataset 
                                 #spitting the dataset into training and test set.
@@ -404,9 +402,10 @@ function Cmt440() {
                 -for simple linear regression, we will not use feature  scaling.Because python libraries take care of it for some cases.
                 - The dataset  is well prepared to work on it and we are going to start building a simple linear regresssion  model for a given problem.
                 
-                2.Fitting the simple linear regression to the training set.
+               <h3> 2.Fitting the simple linear regression to the training set.</h3>
                 --------------------------------------------------------------
                 page 5 
+                
             </p>
         </div>
     )
