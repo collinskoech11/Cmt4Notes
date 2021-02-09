@@ -141,7 +141,7 @@ function Cmt440() {
                                                 Deep belief network<br/>
                                                 Recurrent neural network<br/>
                                                 convolution neural network.<br/>
-                <h3>-This networks have been successfully applied in  solving the problems of:<br/>
+                <h3>-This networks have been successfully applied in  solving the problems of:</h3>
                                             computer vision<br/>
                                             speech recognition<br/>
                                             natural language processing<br/>
@@ -193,7 +193,7 @@ function Cmt440() {
                     Transportation and commuting(Uber)</h3>
                     ----------------------------------------
                     -For the case of booking a cab.<br/>
-                    -It  provides  a personalized application which <br/>is uniq<br/>ue  to you.<br/>
+                    -It  provides  a personalized application which is unique  to you.<br/>
                     -It automatically detects your locations. <br/>
                     -It also provide options to either go home  or office or any other frequent place based on your History or pattern.<br/>
                     -Is uses machine learning algorithms layered on top of historic trips data to make more accurate ETA prediction.<br/>
@@ -213,7 +213,7 @@ function Cmt440() {
                                     Text to speech conversion<br/>
                     -Examples are:<br/>
                                 siri, Alexa, google, cortana<br/>
-                                                <br/>
+                                                
                 
                 
                <h3> Traditional AI</h3>
@@ -225,189 +225,10 @@ function Cmt440() {
                     ------------------
                <h3> -Machine learning </h3>
                 ------------------------
-                -ML - is a collection of algorithms and techniques used to build system that learns from data.
-                -Then the system can then perform prediction by finding pattern in the data.
-                -It sweeps traditional programming in  a certain cases.
+               </p>
+               </div>
                 
-                
-               <h3> Difference between machine learning and traditional programming </h3>
-                ----------------------------------------------------------------------
-                Traditional programming                                        machine learnig 
-                -------------------------------------------------------------------------------
-                1.data and the program produces the output       1.data and the output produces the program
-                -----------------------------------------------------------------------------------------------
-                2.Is a manual process                             2.Algorith automatical formulate the rules from the data
-                    (programmer manual formulate or code the rules)    
-                ---------------------------------------------------------------------------------------------------------------------
-                3.
-                
-               <h3> Machine learning composses of the following descipline;</h3>
-                    scientific computing
-                    mathematics
-                    statistics
-                    
-                    
-                    </h3>
-                   <h3> Why machine learning </h3>
-                    -----------------------------
-                -E-mail filter program  without using ml step by step
-                    1.identify how the spam email looks like.
-                    2.write algorithm to detect the pattern that you have seen.
-                    3.test the program and then make changes to the program until the results are good enough.
-                    -THe software flag woud flag the email as spam if certain numbers of those pattern are detected
-                    -if the case requires a long list of rules to find the solution it is suitable for ML to come in.
-                    -if in any case the email sender change email template, program need to update it manually.
-                    unlike the ML which will detect this automatically, and adapt to new data.
-                
-              <h3>  When should you use machine learning </h3>
-                ---------------------------------------------
-                -
-                
-                
-                
-                         <h3>   CHAPTER  2</h3>
-                            -----------------
-               <h3> Date processing in machine learning</h3>
-                -------------------------------------
-                -A process of preparing the raw  data and making it suitable for a machine learning model.
-                -First and crucial step while creating  a machine learning model.
-                -Faculitates the cleaning and formating of data.
-
-
-               <h3> Why do we need Data processing</h3>
-                -----------------------------------
-                -Real world data generally Contains noise, missing values and even unusable format which cannot be directly used by machine learning model.
-                -This will increase the efficiency  and accuracy of a machine learning model.
-                -It involve the following steps:
-                                    Getting the dataset
-                                    importing libraries
-                                    importing datasets
-                                    fnding missing data
-                                    Encoding categorical Data
-                                    splitting dataset into training and test set
-                                    Feature scaling.
-                                    
-                
-                
-                
-              <h3>  Getting the datasets</h3>
-                ----------------------
-                -requires since a machine requires data to work.
-                -Dataset - is a prober formated collection of data for a particular problem.
-                        -It may be of differnt format for differnt purpose.
-                        - should be put into a csv file in  order to use it our code(also HTML or xlsx file)
-                        
-                        
-              <h3>  What is a CSV file</h3>
-                -----------------------
-                -Stands for Comma-separated value.
-                -It is a file format which allows us to save the tabular data, such as speedsheet.
-                -It is useful for huge datasets used in programming.
-                -Dataset can also be created by gathering data  using various API with python and should be put into .csv file.
-                
-                
-                
-              <h3>  Importing libraries</h3>
-                --------------------------
-                -Used to perform specific jobs.
-                -The specific libraries   used in data preprocessing:
-                            numpy - used for including any type of mathematical operation in the code.
-                                    - it is  a fundamental package for scientific calculation.
-                                    - support also adding large, multidimensional array  and matrics.
-                                    - import numpy as nm
-                        matplotlib - is a python 2D plotting library.
-                                    - With it we need to import a sub-library pyplot.
-                                    -used to plot any type of chart in python.
-                                    -import matplotlib.pyplot as mpt
-                    pandas   -  One of the most famous python library.
-                                -used to manage datasets.
-                                -It is an open-source data manipulation and analysis library.
-                                -import pandas as pd.
-                                
-                                
-                                
-                         <h3>   importing the datasets</h3>
-                            -----------------------
-                -procedure:
-                            import the datasets which we have collected  for our machine learning project.
-                            Before that set a working directory in spyder IDE.
-                            save your python file  in the directory which contains dataset
-                            Go to file explore option in spyder IDE, and select the required directory.
-                            Click on F5  button or run option to execute the file.
-                            n/b we can set any directory as a working directory, but must contain the required dataset.
-                            
-                
-                
-                
-                
-                
-                
-                
-                
-              <h3>  LESSON 3 01/01/2021</h3>
-                ---------------------------
-               <h3> Simple Linear regrassion in machine learning </h3>
-                --------------------------------------------------
-                -A type of algorithm that model the relationship between a dependent variable and a single independent variable.
-                -This relation is  linear or a sloped straight line, hence called simple linear regression.
-                -It has two main objective:
-                            1.Model a relationship bewteen the two variable. - ie relationship between income and expenditure, experience and salaries.
-                            2.Forecasting new observations - ie weather forecasting according to temperature, revenue of a company according to the investment in a year.
-                            
-                  <h3>  simple linear regression model</h3>
-                    ------------------------------------
-                    - Represented using the following equation:
-                            y = a0+a1x+ε 
-                    -a0 - is the intercept of the regression line.
-                    -a1 - is the slope od the regression line, it tells whether the line is icreasinf or decreasing.
-                    -ε  - is the term 
-                
-                
-                
-                
-              <h3>  Implementation of simple linear regresssion algorithm using python</h3>
-                -------------------------------------------------------------------------
-                -Take a dataset that has two variables.
-                -Salary(dependant variable) and experience(independent variable)
-                -The goal of the problems is to -find out if the is any relationship  between these two variables.
-                                                -Find the best fit for the dataset.
-                                                -How the depenfent  variables is changing by changing the dependent variable.
-                                                
-                -steps:
-                      <h3>  1 - Data pre-processing </h3>
-                        --------------------------
-                    -import the three important libraries, which will help us for loading the dataset,
-                    plot the graph, and create  the simple lenear regression model.
-                            import numpy as nm
-                            import matplotlib.pyplot as mtp
-                            import pandas as pd
-                -load the dataset into our code.
-                            data_set = pd.read_csv('salary_Data.csv')
-                -Execute the above line of code(ctrl+ENTER) 
-                -read the dataset on our spyder IDE screen by clicking on the variable explorer option
-                -It will show the data dataset which has two variables. salary and expence.
-                -N/b floder containing the code file must be saved as a working directory and thedataset  or csv file should be in he same folder.
-                -Extract the dependent and independent variables  form the given daaset.
-                -the independent variable  is year of experience, and dependent variable is salary.
-                                x = data_set.iloc[:,:-].values
-                                y = data_set.iloc[:,1].values
-                - -1 removes the last column from the dataset.
-                -We can see the x (independent) variable and y(dependent) variable has been extracted from the given daaset.
-                -We can spit dataset  so that we can train the model using a teaining dataset and ten test the 
-                    dataset 
-                                #spitting the dataset into training and test set.
-                                from sklearn.model_selection import train_test_split
-                                x_train, x_test, y_train, y_test = train_test_slit(x,y,test_size=1/3, random_state=0)
-                -By executing above code, we ill get x-test, x-train and y-test, y-train dataset.
-                -for simple linear regression, we will not use feature  scaling.Because python libraries take care of it for some cases.
-                - The dataset  is well prepared to work on it and we are going to start building a simple linear regresssion  model for a given problem.
-                
-               <h3> 2.Fitting the simple linear regression to the training set.</h3>
-                --------------------------------------------------------------
-                page 5 
-                
-            </p>
-        </div>
+               
     )
 }
 
