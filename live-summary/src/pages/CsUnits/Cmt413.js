@@ -171,8 +171,10 @@ function Cmt413() {
                 7) Ensure the customer has explained any policies regarding distributed authoritiy for network design and administration<br/>
                 8) Ensure that you know the budget<br/>
                 9) Ensure that you undesrtandthe customers bussiness goals starting with overall goal that explains the primary purpose of the network design<br/>
-                10)Ensure you know the schedule of the project including due date and major milestones that are practical<br/>
+                10) Ensure you know the schedule of the project including due date and major milestones that are practical<br/>
                 11) Ensure that you have technical expertise of the client and relevant internal and external staff<br/>
+                13) Dicuss staff education and training plan <br/>
+                12) Beware and UNderstand any office politicsb that might affect your network design<br/>
 
                 </p>
         </div>
