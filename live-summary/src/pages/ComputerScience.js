@@ -9,7 +9,7 @@ function ComputerScience() {
         <div className="row">
             <a href="/Cmt406">
                 <div className="unit">
-                    <h1>CMT 406</h1>
+                    <h1>CMT 406 <br/> ICT  and Society</h1>
                 </div>
             </a>
             <a href="/Cmt413">
@@ -19,22 +19,22 @@ function ComputerScience() {
             </a>
             <a href="/Cmt446">
                 <div className="unit">
-                    <h1>CMT 446</h1>
+                    <h1>CMT 446 <br/> Introduction To Information Systen Audit</h1>
                 </div>
             </a>
             <a href="/Cmt447">
                 <div className="unit">
-                    <h1>CMT 447</h1>
+                    <h1>CMT 447 <br/> Web Application Security</h1>
                 </div>
             </a>
             <a href="/Cmt408">
                 <div className="unit">
-                    <h1>CMT 408</h1>
+                    <h1>CMT 408 <br/> Introduction To Software Project Management</h1>
                 </div>
             </a>
             <a href="/Cmt440">
                 <div className="unit">
-                    <h1>CMT 440</h1>
+                    <h1>CMT 440 <br/> Machine Learning </h1>
                 </div>
             </a>
         </div>
