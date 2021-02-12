@@ -163,6 +163,9 @@ function Cmt413() {
 
                 It is never easy to produce a project schedule : However the following checklist can help us to be very objective on our project schedule<br/>
                 1) Ensure you undesrtand the customer's cooperate culture.<br/>
+                2) Ensure that the customer has dientified any mission critical operations <br/>
+                3) Ensure that you have researched the customers industry and competition<br/>
+                4) Ensure you understand the customers criteria for success and ramifications for failiure<br/>
                 </p>
         </div>
     )
