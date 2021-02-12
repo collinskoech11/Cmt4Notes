@@ -166,6 +166,7 @@ function Cmt413() {
                 2) Ensure that the customer has dientified any mission critical operations <br/>
                 3) Ensure that you have researched the customers industry and competition<br/>
                 4) Ensure you understand the customers criteria for success and ramifications for failiure<br/>
+                5) Ensure that you understand customers network aopplication , You have identified them using a <a href="https://www.google.com/search?client=opera&q=network+application+chart&sourceid=opera&ie=UTF-8&oe=UTF-8">network application chart </a> <br/>
                 </p>
         </div>
     )
