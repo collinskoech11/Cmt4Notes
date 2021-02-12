@@ -167,6 +167,9 @@ function Cmt413() {
                 3) Ensure that you have researched the customers industry and competition<br/>
                 4) Ensure you understand the customers criteria for success and ramifications for failiure<br/>
                 5) Ensure that you understand customers network aopplication , You have identified them using a <a href="https://www.google.com/search?client=opera&q=network+application+chart&sourceid=opera&ie=UTF-8&oe=UTF-8">network application chart </a> <br/>
+                6) Let the customer explain to you policies regarding approved vendors, protocols or platforms <br/>
+                7) Ensure the customer has explained any policies regarding distributed authoritiy for network design and administration<br/>
+                8) Ensure that you know the budget<br/>
                 </p>
         </div>
     )
