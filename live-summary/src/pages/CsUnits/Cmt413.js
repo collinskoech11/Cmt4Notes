@@ -179,7 +179,7 @@ function Cmt413() {
                 <strong>For a successsful project schedule we strat with understanding the corporate structure which helps us to understand the data flow in the organisation, Develop a network topology which is parallel to corporate structure This eventually helps managers(project managers who will have the authoritiy to accept or reject the network deign ) This conflict is essential to allow us to come up with a proper network design</strong><br/>
                 ** REv qn: <br/> 
                 1) Why is it important to use a structured, Systematic method for designing networks<br/>
-                2) What problems could occur if such methods are used<br/>
+                2) What problems could occur if such methods are not used<br/>
 
                 </p>
         </div>
