@@ -149,7 +149,7 @@ function Cmt413() {
                 No compromise on functionality as initially intended <br/>
                 NB To achieve this quality planning is neccessary and can only be achieved  during the technical analysis stage and the logical and physical design phases of the project <br/>
                 AS you do this  keep the schedule in mind <br/>
-
+            
                 <h3>Understanding customer needs and Goals</h3>
                 -Analyzing business goals and constraints<br/>
                 -Analyzing technical goals and constraints<br/>
@@ -170,6 +170,8 @@ function Cmt413() {
                 6) Let the customer explain to you policies regarding approved vendors, protocols or platforms <br/>
                 7) Ensure the customer has explained any policies regarding distributed authoritiy for network design and administration<br/>
                 8) Ensure that you know the budget<br/>
+                9) Ensure that you undesrtandthe customers bussiness goals starting with overall goal that explains the primary purpose of the network design<br/>
+
                 </p>
         </div>
     )
