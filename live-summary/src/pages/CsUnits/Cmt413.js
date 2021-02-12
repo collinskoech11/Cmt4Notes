@@ -143,6 +143,12 @@ function Cmt413() {
                 In most cases the management of the project schedule it is the responsibility of the customer not the network design and implmentation team <br/>
                 Once the Schedule has been agreed , both the customer and the implementatiion team keep their copies of the document  <br/>
 
+                If possible use a tool in developing your schedule that includes milestones resource assignments critical path analysis  Take a look at this aspect of the schedule and before starting the project evaluate whether this project is practical considering all the info you have about the scope of the project<br/>
+                An agresssive Implementation schedule may require reduction but that reduction has nothing to do with reduction of the quality of our works and the following must prove that <br/>
+                -Test results yield results 
+                No compromise on functionality as initially intended <br/>
+                NB To achieve this quality planning is neccessary and can only be achieved  during the technical analysis stage and the logical and physical design phases of the project <br/>
+                AS you do this  keep the schedule in mind <br/>
 
                 <h3>Understanding customer needs and Goals</h3>
                 -Analyzing business goals and constraints<br/>
@@ -152,6 +158,11 @@ function Cmt413() {
 
                 Consider the avriations that can occur and factor the time as an important factor<br/>
 
+                <h3>Checklist For project schedule </h3>
+
+
+                It is never easy to produce a project schedule : However the following checklist can help us to be very objective on our project schedule<br/>
+                1) Ensure you undesrtand the customer's cooperate culture.<br/>
                 </p>
         </div>
     )
