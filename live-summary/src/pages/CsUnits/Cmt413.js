@@ -134,6 +134,19 @@ function Cmt413() {
                 ** concept paper for a company of choice to show how you are going to design the network and implement it Implication of the proposed design to the current design and justify why the org should adopt your design <br/>
 
                 Characterizing the existing inter networks <br/>
+                <h3>Project Schedule </h3>
+                After our budgets have fallen in place both the project team and the customer sit down and and have an agreed timeline on how the project will be implemented details emerge answering the following qns<br/>
+                1:When is the final due date<br/>
+                2:What are the intermediate milestones <br/>
+                3:What are the major milestones<br/>
+
+                In most cases the management of the project schedule it is the responsibility of the customer not the network design and implmentation team 
+
+                <h3>Understanding customer needs and Goals</h3>
+                -Analyzing business goals and constraints
+                -Analyzing technical goals and constraints
+                -Characterizing  the ex
+
                 </p>
         </div>
     )
