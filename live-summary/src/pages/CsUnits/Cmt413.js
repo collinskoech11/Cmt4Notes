@@ -174,7 +174,9 @@ function Cmt413() {
                 10) Ensure you know the schedule of the project including due date and major milestones that are practical<br/>
                 11) Ensure that you have technical expertise of the client and relevant internal and external staff<br/>
                 13) Dicuss staff education and training plan <br/>
-                12) Beware and UNderstand any office politicsb that might affect your network design<br/>
+                12) Beware and Understand any office politics that might affect your network design<br/>
+
+                <strong>For a successsful project schedule we strat with understanding the corporate structure which helps us to understand the data flow in the organisation, Develop a network topology which is parallel to corporate structure This eventually helps managers(project managers who will have the authoritiy to accept or reject the network deign ) This conflict is essential to allow us to come up with a proper network design</strong>
 
                 </p>
         </div>
