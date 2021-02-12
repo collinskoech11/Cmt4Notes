@@ -140,12 +140,17 @@ function Cmt413() {
                 2:What are the intermediate milestones <br/>
                 3:What are the major milestones<br/>
 
-                In most cases the management of the project schedule it is the responsibility of the customer not the network design and implmentation team 
+                In most cases the management of the project schedule it is the responsibility of the customer not the network design and implmentation team <br/>
+                Once the Schedule has been agreed , both the customer and the implementatiion team keep their copies of the document  <br/>
+
 
                 <h3>Understanding customer needs and Goals</h3>
-                -Analyzing business goals and constraints
-                -Analyzing technical goals and constraints
-                -Characterizing  the ex
+                -Analyzing business goals and constraints<br/>
+                -Analyzing technical goals and constraints<br/>
+                -Characterizing  the existing internetworks <br/>
+                -Characterizing Network traffic<br/>
+
+                Consider the avriations that can occur and factor the time as an important factor<br/>
 
                 </p>
         </div>
