@@ -9,7 +9,7 @@
     "draft-js": "^0.11.7",
     "express": "^4.17.1",
     "focus-trap-react": "^8.4.1",
-    "mdbreact": "^5.0.1",
+    "mdbreact": "^4.6.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-collapsible": "^2.8.3",
@@ -22,6 +22,7 @@
     "react-scripts": "4.0.1",
     "react-scrolltop-button": "^0.1.6",
     "simple-slider": "^1.0.1",
+    "tailwindcss": "^2.0.3",
     "web-vitals": "^1.1.0"
   },
   "scripts": {

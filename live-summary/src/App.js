@@ -1,5 +1,6 @@
 import './App.css';
 import Home from './pages/Home';
+import Upcoming from './pages/Upcoming';
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import Navpage from './components/Navpage';
 import FooterPage from './components/FooterPage';
@@ -24,6 +25,7 @@ function App() {
       <Loading/>
       <Router>
        <Route exact path="/" component={Home}/>
+       <Route path="/Upcoming" component={Upcoming}/>
        <Route path="/ComputerScience" component={ComputerScience}/>
        <Route path="/Cmt406" component={Cmt406}/>
        <Route path="/Cmt408" component={Cmt408}/>
