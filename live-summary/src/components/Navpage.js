@@ -17,7 +17,7 @@ function Navpage() {
                     
                     <NavDropdown.Item href="/System">Request push access</NavDropdown.Item>
                     <NavDropdown.Item href="/System">Report a problem </NavDropdown.Item>
-                    <NavDropdown.Divider />
+                   
                     <NavDropdown.Item href="/System">Suggestions </NavDropdown.Item>
                 </NavDropdown>
                 <Nav.Link href="#home">Collaborators</Nav.Link>
