@@ -14,7 +14,7 @@ function Navpage() {
                 <Nav.Link href="/">Exam Prediction</Nav.Link>
                 <Nav.Link href="/ComputerScience">Courses</Nav.Link>
                 <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                    <NavDropdown.Item href="/System">Action</NavDropdown.Item>
+                    
                     <NavDropdown.Item href="/System">Request push access</NavDropdown.Item>
                     <NavDropdown.Item href="/System">Report a problem </NavDropdown.Item>
                     <NavDropdown.Divider />
