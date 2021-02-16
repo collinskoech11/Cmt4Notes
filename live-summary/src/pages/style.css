@@ -75,6 +75,9 @@
     display:block;
 }
 .contact-form input, label, textarea{
-    width:90%;
-    margin:2%;
+    width:60%;
+    margin-bottom:1%;
+    border-radius: 5px;
+    text-align: left;
+    border:2px solid rgb(100, 100, 100,0.5);
 }
