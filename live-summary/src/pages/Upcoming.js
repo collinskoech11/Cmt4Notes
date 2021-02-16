@@ -12,6 +12,7 @@ function Upcoming() {
             3) Describe Cyber crimes(3)<br/>
             Intellectual property(2mks)<br/>
             Cyber Crime (2mks)<br/>
+            
        </Collapsible>
     )
 }
