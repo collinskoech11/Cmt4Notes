@@ -7,6 +7,7 @@
     "bootstrap": "^4.6.0",
     "cra-template": "1.1.1",
     "draft-js": "^0.11.7",
+    "emailjs-com": "^2.6.4",
     "express": "^4.17.1",
     "focus-trap-react": "^8.4.1",
     "mdbreact": "^4.6.1",

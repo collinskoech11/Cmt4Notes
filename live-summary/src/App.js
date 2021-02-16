@@ -1,5 +1,6 @@
 import './App.css';
 import Home from './pages/Home';
+import ReqAccess from './pages/ReqAccess';
 import Upcoming from './pages/Upcoming';
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import Navpage from './components/Navpage';
@@ -25,6 +26,7 @@ function App() {
       <Loading/>
       <Router>
        <Route exact path="/" component={Home}/>
+       <Route exact path="/ReqAccess" component={ReqAccess}/>
        <Route path="/Upcoming" component={Upcoming}/>
        <Route path="/ComputerScience" component={ComputerScience}/>
        <Route path="/Cmt406" component={Cmt406}/>
