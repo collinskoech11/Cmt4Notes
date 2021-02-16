@@ -23,6 +23,22 @@ function Upcoming() {
                 3) Why is it important to explore divisional and group structure of an organisation when starting a network design project<br/>
 
         </Collapsible>
+
+        <Collapsible  trigger="SOFTWARE PROJECT MANAGEMENT">
+                No Assignments yet
+        </Collapsible>
+
+        <Collapsible  trigger="ADVANCED ARTIFICIAL INTELLIGENCE">
+                No Assignments yet
+        </Collapsible>
+
+        <Collapsible  trigger="WEB APPLICATION SECURITY">
+                No Assignments yet
+        </Collapsible>
+
+        <Collapsible  trigger="SYSTEM AUDIT">
+                No Assignments yet
+        </Collapsible>
         </>
     )
 }
