@@ -49,6 +49,7 @@
 @media screen and (max-width:1000px){
     .row a{
         width: 48%;
+        
     }
 }
 @media screen and (max-width:800px){
