@@ -57,3 +57,14 @@
         margin-right:1%;
     }
 }
+/**Collapsible styling **/
+.Collapsible__trigger{
+    font-weight:bold;
+    cursor:pointer;
+}
+.Collapsible{
+    border:1px solid black;
+    border-radius:5px;
+    margin:20px;
+    padding:10px;
+}
