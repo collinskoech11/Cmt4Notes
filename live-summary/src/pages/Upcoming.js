@@ -25,20 +25,21 @@ function Upcoming() {
         </Collapsible>
 
         <Collapsible  trigger="SOFTWARE PROJECT MANAGEMENT">
-                No Assignments yet
+                No Assignments yet.
         </Collapsible>
 
         <Collapsible  trigger="ADVANCED ARTIFICIAL INTELLIGENCE">
-                No Assignments yet
+                No Assignments yet.
         </Collapsible>
 
         <Collapsible  trigger="WEB APPLICATION SECURITY">
-                No Assignments yet
+                No Assignments yet.
         </Collapsible>
 
         <Collapsible  trigger="SYSTEM AUDIT">
-                No Assignments yet
+                No Assignments yet.
         </Collapsible>
+
         </>
     )
 }
