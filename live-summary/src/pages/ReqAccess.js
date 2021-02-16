@@ -1,5 +1,6 @@
 import React from 'react';
 import emailjs from 'emailjs-com';
+import './style.css';
 
 export default function  ReqAccess(){
 

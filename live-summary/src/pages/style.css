@@ -69,3 +69,12 @@
     padding:10px;
     box-sizing:border-box;
 }
+
+.contect-form{
+    width: 40%;
+    display:block;
+}
+.contact-form input, label, textarea{
+    width:90%;
+    margin:2%;
+}
