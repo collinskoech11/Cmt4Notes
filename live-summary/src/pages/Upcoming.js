@@ -25,19 +25,19 @@ function Upcoming() {
         </Collapsible>
 
         <Collapsible  trigger="SOFTWARE PROJECT MANAGEMENT">
-                No Assignments yet.
+        <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://remote.url.tld/path/to/document.doc' width='100%' height='      300px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
         </Collapsible>
 
         <Collapsible  trigger="ADVANCED ARTIFICIAL INTELLIGENCE">
-                No Assignments yet.
+                <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://remote.url.tld/path/to/document.doc' width='100%' height='      300px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
         </Collapsible>
 
         <Collapsible  trigger="WEB APPLICATION SECURITY">
-                No Assignments yet.
+                <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://remote.url.tld/path/to/document.doc' width='100%' height='      300px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
         </Collapsible>
 
         <Collapsible  trigger="SYSTEM AUDIT">
-                No Assignments yet.
+                <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://remote.url.tld/path/to/document.doc' width='100%' height='      300px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
         </Collapsible>
 
         </>
