@@ -83,3 +83,6 @@
     text-align: left;
     border:2px solid rgb(100, 100, 100,0.5);
 }
+.contact-form label{
+    border:none;
+}
