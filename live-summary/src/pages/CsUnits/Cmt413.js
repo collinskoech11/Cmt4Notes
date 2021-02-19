@@ -221,6 +221,16 @@ function Cmt413() {
                     NNNNNNNN.NNNNNNNN.NNNNNNNN.nnnnnnnn<br/><br/>
 
                     Class D 
+
+
+
+                    <h3>Private Network </h3>
+                    THere are three adrresses reserved for private networks 
+
+                    THe addresses are :
+
+                    Can be used by any one setting up an internal IP networks  (LAN , home network) behind NAT  or proxy server ;
+                    Its safer to use this 
                      </p>
         </div>
     )
