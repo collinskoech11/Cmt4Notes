@@ -16,6 +16,7 @@ import Cmt440 from './pages/CsUnits/Cmt440';
 import System from './pages/CsUnits/System';
 import Loading from "./Loading";
 import ScrollTop from "react-scrolltop-button";
+import Cats from './pages/Cats';
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
        <Route exact path="/" component={Home}/>
        <Route exact path="/ReqAccess" component={ReqAccess}/>
        <Route path="/Upcoming" component={Upcoming}/>
+       <Route path="/Cats" component={Cats}/>
        <Route path="/ComputerScience" component={ComputerScience}/>
        <Route path="/Cmt406" component={Cmt406}/>
        <Route path="/Cmt408" component={Cmt408}/>
