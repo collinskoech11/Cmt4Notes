@@ -188,10 +188,40 @@ function Cmt413() {
                     THerefore it is important to adopt a proactive approach to maintaining the health of your next generation networks<br/>
                     
                     Most service provider consider only the bandwidth and latency issues in determining network health  and ignore the implications of security and loads on the server; heavy server loads can result in extended increase  the chances of intrusion from viruses. THe following steps will keep your network in good health:<br/>
-                    <h3>Ip addressing</h3>
+                    <h3>Ip Addressing</h3>
+                    Unique identifier for a node or host connection <br/>
+                    Ip address is a 32bit binary number<br/>
+                    Consists of two parts one identifying the network the other identifying the node <br/>
 
 
-                </p>
+                    THe different classes:<br/>
+                    A 0xxx or 1 to 126 decimal <br/>
+                    B 10xx or 128 to 191 decimal <br/>
+                    C 110x or 192 to 223 decimal <br/>
+                    D 111x or 1 to 126 decimal <br/>
+                    E 0xxx or 1 to 126 decimal <br/>
+
+
+
+                    D addresses are reserved for multicasting <br/>
+                    E are resrved for future use <br/>
+                    THey should not be used for host addresses <br/>
+
+                    Addresses belonging to network N and the network n <br/>
+
+                    Class A<br/><br/>
+
+                    NNNNNNNN.nnnnnnnn.nnnnnnnn.nnnnnnnn<br/><br/>
+
+
+                    Class B <br/><br/>
+                    NNNNNNNN.NNNNNNNN.nnnnnnnn.nnnnnnnn<br/><br/>
+
+                    Class C <br/><br/>
+                    NNNNNNNN.NNNNNNNN.NNNNNNNN.nnnnnnnn<br/><br/>
+
+                    Class D 
+                     </p>
         </div>
     )
 }
