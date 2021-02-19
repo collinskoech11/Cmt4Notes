@@ -177,11 +177,14 @@ function Cmt413() {
                 12) Beware and Understand any office politics that might affect your network design<br/>
 
                 <strong>For a successsful project schedule we strat with understanding the corporate structure which helps us to understand the data flow in the organisation, Develop a network topology which is parallel to corporate structure This eventually helps managers(project managers who will have the authoritiy to accept or reject the network deign ) This conflict is essential to allow us to come up with a proper network design</strong><br/>
-                ** REv qn: <br/> 
-                1) Why is it important to use a structured, Systematic method for designing networks<br/>
-                2) What problems could occur if such methods are not used<br/>
-                3) Why is it important to explore divisional and group structure of an organisation when starting a network design project<br/>
 
+                    <h4>
+                       ** Lecture 4
+                    </h4>
+
+                <h3>Checking the health of the Existing Systems</h3>
+                
+                    Its important to have a healthy reliable network : A failing network can affect services , leading to poor customer and user experienc, and ultimately leading to loss of revenue
                 </p>
         </div>
     )
