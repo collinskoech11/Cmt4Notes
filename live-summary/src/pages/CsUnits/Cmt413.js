@@ -231,6 +231,15 @@ function Cmt413() {
 
                     Can be used by any one setting up an internal IP networks  (LAN , home network) behind NAT  or proxy server ;
                     Its safer to use this 
+
+                    <h3>Private Subnets  </h3>
+
+                    Subnetting is done for the following reasons:
+                    Organisation 
+                    Use of different physical media 
+
+                    THe most common reason is to conttrol network traffic 
+                    A router is used to connect IP networks to minimize traffic on each segment must receive 
                      </p>
         </div>
     )
