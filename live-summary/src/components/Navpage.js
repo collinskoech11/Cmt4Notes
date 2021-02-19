@@ -12,7 +12,7 @@ function Navpage() {
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/Upcoming">Upcoming Assignments</Nav.Link>
                 <Nav.Link href="/Cats">CATS</Nav.Link>
-                <Nav.Link href="/">Exam Prediction</Nav.Link>
+                <Nav.Link href="/System">Exam Prediction</Nav.Link>
                 <Nav.Link href="/ComputerScience">Courses</Nav.Link>
                 <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                     
