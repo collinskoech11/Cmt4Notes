@@ -185,6 +185,12 @@ function Cmt413() {
                 <h3>Checking the health of the Existing Systems</h3>
                 
                     Its important to have a healthy reliable network : A failing network can affect services , leading to poor customer and user experienc, and ultimately leading to loss of revenue
+                    THerefore it is important to adopt a proactive approach to maintaining the health of your next generation networks<br/>
+                    
+                    Most service provider consider only the bandwidth and latency issues in determining network health  and ignore the implications of security and loads on the server; heavy server loads can result in extended increase  the chances of intrusion from viruses. THe following steps will keep your network in good health:<br/>
+
+
+
                 </p>
         </div>
     )
