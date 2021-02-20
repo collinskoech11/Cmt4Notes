@@ -7,7 +7,7 @@ const FooterPage = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title">Footer Content</h5>
+            <h5 className="title">Live Summary</h5>
             <p>
               
             </p>
