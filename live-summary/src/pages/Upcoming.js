@@ -1,13 +1,15 @@
 import React from 'react';
 import Collapsible from 'react-collapsible';
-import './style.css'
+import './style.css';
+import DateCountdown from 'react-date-countdown-timer';
 //One Punch man
 
 function Upcoming() {
     return (
         <>
        <Collapsible  trigger="ICT AND SOCIETY">
-            <h3>****Due 22 Feb 2021</h3>
+            <h3>*<DateCountdown dateTo='January 01, 2023 00:00:00 GMT+03:00' callback={()=>alert('Hello')}  />
+            </h3>
             1) Dsicusss similarities between ethics and law (4mks)<br/>
                 -Discuss the difference between ethics and law (5mks)<br/>
             2) REfer to the computer misyuse and cyber crime act 2018 and Intellectual property act and briefflly discuss their opinion on intellectual property <br/>
@@ -17,6 +19,8 @@ function Upcoming() {
        </Collapsible>
 
         <Collapsible  trigger="NETWORK AND SYSTEM ADMINISTRATION">
+        <h3>*<DateCountdown dateTo='January 01, 2023 00:00:00 GMT+03:00' callback={()=>alert('Hello')}  />
+            </h3>
                 ** REv qn: <br/> 
                 1) Why is it important to use a structured, Systematic method for designing networks<br/>
                 2) What problems could occur if such methods are not used<br/>
