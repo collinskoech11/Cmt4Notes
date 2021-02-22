@@ -239,11 +239,11 @@ function Cmt406() {
 
             <h3>Netiquette</h3> are the verious   relating to usage of the internet  Its about proper ways to use a network and determine whether the information is reliable While emphasising Four important factors 
                 i) Real people exist behind the computers 
-                    -> It is important to consider that as you send in the chat window remember you are dealing with people not machines (Think Twice)
-                    -> REmeber you are not the one using the network/Internet 
-                    > Keep other people in mind as you share sth on the network /interne =-t 
+                    - It is important to consider that as you send in the chat window remember you are dealing with people not machines (Think Twice)
+                    - REmeber you are not the one using the network/Internet 
+                    - Keep other people in mind as you share sth on the network /interne =-t 
                 ii) Protect your private data 
-                    ->  Just as you would in the real world take note 
+                    -  Just as you would in the real world take note 
                     fraud 
                     false info on the internet 
                     Use common sense to determine whether the info is valid
@@ -252,11 +252,11 @@ function Cmt406() {
                     Protect your personal information To acoid malicious activities on the data 
 
                 iii) Spamming : Sending of unsolicited  bulk and/or commercial messages over the internet 
-                    -> It is morally bad as it is intended to destroy and done by infringing on the right of privacy by others 
-                    -> It is good  that the message sent benefits the recipient 
+                    - It is morally bad as it is intended to destroy and done by infringing on the right of privacy by others 
+                    - It is good  that the message sent benefits the recipient 
                 
                 iv) Help make the network better 
-                 -> Existance of the information society is based on
+                 - Existance of the information society is based on
                  making a contribution is an essential part of building a network 
             <h3>Software Piracy</h3>
              It is morally bad to reproduce a copy of software and sell it for free or produce exactly the same or similar version without credditting the author 
@@ -314,14 +314,38 @@ function Cmt406() {
 
 
 
+        <h3>Utility Models/ Petty Patent </h3>
+        There are certain innovations that dont need  to be entiely new , It might be new in kenya but not neccesarily in the world THe newness need not to be an invention 
 
-            <h3>****Due 22 Feb 2021</h3>
-            1) Dsicusss similarities between ethics and law (4mks)<br/>
-                -Discuss the difference between ethics and law (5mks)<br/>
-            2) REfer to the computer misyuse and cyber crime act 2018 and Intellectual property act and briefflly discuss their opinion on intellectual property <br/>
-            3) Describe Cyber crimes(3)<br/>
-            Intellectual property(2mks)<br/>
-            Cyber Crime (2mks)<br/>
+        <h4>Petty Patent - Patent on utility model</h4>
+        <h4>Patent </h4>
+        <h3>TRademark</h3>
+
+         <h3>Copyright</h3>
+
+         Potects Original expressions enboded in material, tangible or fixed form 
+         It starts with an idea, its expresssed then the expression is embedded in material form
+         e.g - Writer gets an idea to write  writes down on a piece of paper then publishes a book
+          Ideas are not protected in the intellectual property but expressions are 
+
+          Copyright is dynamic in 3 main areas 
+          i) Software
+          ii) LIterature 
+          iii) Entertainment
+
+        Trade Secrets - Reffered to as Undisclosed Information They're also called confidential information
+
+        Have two main characteristics:
+        Information must be secret or confidential that is not disclosed to other people 
+        Information must have commercial value - REason for confidentiality
+        THere must be an obligation to keep that information a secret that is confidential obligation that is done through non-disclosure agreement clause in the contract of employment And theyre protected under intellectual property
+
+        Patents exist for a lease of 20 years 
+        <h3>Privacy </h3>
+        
+        REfers to data and information security 
+        Data is collection of raw facts  THe data is then procceseed into information 
+        <h3>Information Privacy</h3> - THe rights of individuals and companies to deny or restrict the collection and use of information around them 
             </p>
         </div>
     )
