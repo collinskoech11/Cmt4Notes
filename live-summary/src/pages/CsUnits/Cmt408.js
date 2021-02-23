@@ -309,7 +309,7 @@ function Cmt408() {
                     </h3>
 
                     <h4>KNOWLEDGE AREA            | Tools and Tech</h4>
-                    <h5>Intergration Management   | Project Selection Methods</h5>
+                    <h5><h3>Intergration Management</h3>   | Project Selection Methods</h5>
                     <h5>                          | Project Management Methodologies</h5>
                     <h5>                          | Stakeholder analysis</h5>
                     <h5>                          | Project Charter</h5>
@@ -372,6 +372,25 @@ function Cmt408() {
                     - Clear Basic Requirements<br/>
                     - Formal Methodologies<br/>
                     - REliable Estimates<br/>
+
+
+                    <h3>Technology Context</h3>
+
+                    Customer and user perspective<br/>
+
+                    <h3>Important quetsions </h3>
+                    What is important to the user<br/>
+                    How will the user actually use the system<br/>
+                    Hw doest the world look like from the users perspective<br/>
+                    What do they value and what is the solution worth<br/>
+
+
+                    <h3>3 Sphere Model </h3>
+                    Deals with:<br/>
+                    Business - Should supplement or serve the business needs of the Organisation<br/>
+                    Organisation - all stakeholders Should be taken into consideration<br/>
+                    Technological Aspects - Proper Hardware and Software<br/>
+
                                 </p>
         </div>
     )
