@@ -61,13 +61,19 @@ function Cmt446() {
                                 -Compliance audits<br/>
                                 -Information system auditor<br/>
                                 -Business audit<br/>
-                                
-            -Identifies the external requirement for....<br/>
-            -review the specific laws .....<br/>
-            -Determine whether the organisations....<br/>
-            -Determine whether employees are  complying with ...<br/>
+                    -Evaluate the design and operation of internal contol.<br/>
 
 
+                  <h3> The general process in evaluating the design  and operation of internal control</h3>
+            ---------------------------------------------------------------------------------------<br/>
+            1- Verify compliance with external regulations<br/>
+                        -identify the external requirements with the company <br/>
+                        -review the specific laws and regulations with which the organisation must be compliant<br/>
+                        -determine whether the organisation considered these laws and regulations when policies and
+                        procedures were developed.
+                        -Determine whether identified policies and procedures adhere to external laws and requirements
+                        -Determine whether the employees are adhering to specific policies and procedure or whether discrepancies exist.
+                        
            <h3> -Audit planning</h3><br/>
             ------------------
             -the goal of an audit function is to present an independent  and objective evaluation to the state of internal control.<br/>
@@ -79,10 +85,109 @@ function Cmt446() {
             -short term planning also tarctical planning which  looks at issue the organisation is currently facing.<br/>
 
 
+            -present an independent and objective evaluation of the state of the internal control with <br/>
+               appropriate recommendations to mitigate any detected risks if applicable.<br/>
+             -Audit charter  is required at the highest level to establish the IS audit function.<br/>
+             -The charter defines what responsibilities senior management is deligating.<br/>
+             -The audit  departement - should report to the audit committee.<br/>
+                                     -should not report to the  senior management directly because it might create an independence problem.<br/>
+             -The audit commitee - is responsible only to senior management and the board of directors.<br/>
+                                 - They should report directly to the directors.<br/>
+             -Long-term plans are considered strategic.<br/>
+             -Strategic planing looks at what effect management's planned long-term  changes to the infrastructure<br/>
+              will  have on the security of the organization.<br/>
+             -Short-term planning is refered to as tactical planning.<br/>
+             -Tactical planning looks at issues the organization currently faces, such as what is to be audited during<br/>
+              the current year.<br/>
+             -Audti dont occur in vacuum.<br/>
+             -Auditors must take into account the company and its culture, and must understand the environment in which <br/>
+              they will be working.<br/>
+
+
+              <h3>Audit planning process</h3>
+             -------------------------<br/>
+         -Learn the business, review the mission statement, and understand its purpose and goals.<br/>
+         -Review documentation and evaluate existing policies, procedures and guidelines<br/>
+         -Identify threats, risks, and concerns.<br/>
+         -Carry out risk analysis<br/>
+         -Identify internal controls.<br/>
+         -Define audit objective and scope of audit.<br/>
+         -Identify resource needed for the audit and assign appropriate personnel.<br/>
+         
+         
+         
+
             <h3>ISACA</h3><br/>
             --------
             -Its standard are developed by the ISACA's board.<br/>
-            
+            -The board meets  twice a year to develop ISACA standard  to help advance the IS auditing profession.<br/>
+   -Standard is used here to describe the category of guidance document.<br/>
+   -Guidelines and procedures - offer guidance on how to maintan compliance.<br/>
+                              - there are 35 categories of guideline:<br/>
+                                  G1 - Using the work of other auditors<br/>
+                                  G2 - Audit evidence requirement<br/>
+                                  G3 - Using the computer-assisted audit techniques(CAATS)<br/>
+                                  G4 - Outsource of IS activities  to other organizations<br/>
+                                  G5 - Audit charter<br/>
+                                  G6 - materiality concepts for auditing information systems.<br/>
+                                  G7 - Due professional Care<br/>
+                                  G8 - Audit Documentation.<br/>
+                                  G9 - Audit considerations for irregularities<br/>
+                                  G10 - Audit sampling<br/>
+                                  G11 - Audit sampling<br/>
+                                  G12 - Organization relationship and independence<br/>
+                                  G13 - Use of risk assessment in audit planning<br/>
+                                  G14 - Application system review<br/>
+                                  G15 - Planning Review<br/>
+                                  G16 - Effect of third parties on an organization IT controls<br/>
+                                  G17 - Effect of nonaudit role on the IS Auditor's independence<br/>
+                                  G18 - IT Governance<br/>
+                                  G19 - Irregularities and Illegal acts<br/>
+                                  G20 - Reporting <br/>
+                                  G21 - Enterprise resource planning (ERP) systems Review<br/>
+                                  G22 - Business to consumer(B2C) e-commerce Review<br/>
+                                  G23 - System Developement lifecycle (SDLC) Revies<br/>
+                                  G24 - internet banking<br/>
+                                  G25   - Review of virtual private networks<br/>
+                                  G26     Business process Reengineering (BPR) project Reviews<br/>
+                                  G27 - Mobile computing <br/>
+                                  G28 - computer forensics<br/>
+                                  G29 - Post-implementation Review<br/>
+                                  G30 - Competence<br/>
+                                  G31 - Privacy<br/>
+                                  G32 - Businessdd Contuinuity plan(BCP) review from IT parspective<br/>
+                                  G33 - General considereation on the use of internet<br/>
+                                  G34 - Reponsibility, authority and accountability<br/>
+                                  G35 - follow-up  activities<br/>
+                             -procedure caterories are 10:<br/>
+                                        P1 - IS Risk Assessment<br/>
+                                        p2 - Digital signatures<br/>
+                                        P3 - intrusion Detection<br/>
+                                        P4 - Viruses and other malicious code<br/>
+                                        p - control risk self-assement<br/>
+                                        p6 - Firewalls<br/>
+                                        p7 - irregularities and illegal acts<br/>
+                                        p8 - security assessment - penetration testing and vulnerability analysis<br/>
+                                        p9 - evaluation of management control encryption methodologies<br/>
+                                        p10 - Business application change control.<br/>
+       
+  -Standard - are agreed upon principles of protocols.<br/>
+            -it detail mandatory requirements.<br/>
+            -The 14 caterogies of standards includes:<br/>
+                        s1 - audit charter<br/>
+                        s2 - independence<br/>
+                        s3 - professional ethics and standards<br/>
+                        s4 - competence<br/>
+                        s5  - planning<br/>
+                        s6  - peformance of audit work<br/>
+                        s7 - reporting <br/>
+                        s8 - follow-up activities<br/>
+                        s9 - irregularities and illegal acts<br/>
+                        s10 - IT governance 1 september 2005<br/>
+                        s11 - use of risk assessment audit planning <br/>
+                        s12 - audit materiality<br/>
+                        s13 - using the work of other experts<br/>
+                        s14 - audit evidence<br/>
             
                 <h3>standard Document </h3><br/>
                 ---------------------
@@ -121,6 +226,7 @@ function Cmt446() {
                             
                 <h3>Risk analysis</h3><br/>
                 ---------------<br/>
+                -One of the way used to determine what to audit.<br/>
                 -Model networks and systems are highly complex.<br/>
                 - risk is the pottential for harm.<br/>
                 -Vulnerability - is the weakness in a system or process.<br/>
@@ -138,13 +244,15 @@ function Cmt446() {
                 
                <h3> Risk management</h3><br/>
                 -------------------
-                -follows a define process which includes:<br/>
+                -Include the following steps:<br/>
                         -develop a risk management <br/>
+                        Identify Assets<br/>
                         -identify threat<br/>
+                        perform risk analysis<br/>
                         -peform risk mitigation<br/>
                         -monitor<br/>
             
-            <h3>-Risk can be hundled/mitigating in 4 way:</h3><br/>
+            <h3>-Ways of handling risk:</h3><br/>
                         -avoid risk.<br/>
                         -Reduce risk ie installing a firewall in place. <br/>
                         -accepting risk - Retaining the potential cost  that is obtained by ...<br/>
@@ -163,7 +271,16 @@ function Cmt446() {
                     -perfom substandard test <br/>
                     -conclude the audit by preparing a report <br/>
                 
-                
+                   <h3> -Audit planning</h3>
+                    ------------------<br/>
+                    -the goal of an audit function is to present an independent  and objective evaluation to the state of internal control.<br/>
+                    -the audit function require an audit chart.<br/>
+                    -The chart function defines the senior delegations.<br/>
+                    -the audit committee is like the committee of few managers.<br/>
+                    -the audit committee is only responsible to senior management <br/>
+                    -Auditors - should report findings to sinior management<br/>
+                    -short term planning also tactical planning which  looks at issue the organisation is currently facing.<br/>
+
                 
                 
                 
@@ -227,6 +344,63 @@ function Cmt446() {
                 
             -evidence - is information that an auditor obtain to assist. <br/>
                     - should be sufficient, reliable, usable relavant and effective. <br/>
+
+
+
+                        <h3>Lesson 4</h3>
+                        --------<br/>
+                -Software costing model<br/>
+                    -constructing cost model<br/>
+                    -kilo line of....<br/>
+                    -Number of user output.<br/>
+                    -number of files.<br/>
+                *function type analysis<br/>
+                -Shedule is the prefered type for estimating time. <br/>
+                -critical pass - can be computed by the project management.<br/>
+                -timebox management - used in project.<br/>
+                                    - used to login specification and prevent greek.<br/>
+                -project control - <br/>
+                -closing a project require key task such as ...<br/>
+
+
+                -structured are used by organisations to :<br/>
+                        -minimise risk<br/>
+                        -<br/>
+                        -<br/>
+                        -<br/>
+                        key terms usedin development state<br/>
+                        --------------------------------------<br/>
+                -cohesion and coupling- developers should devep a high cohesion and low coupling.<br/>
+                
+                -Testing type<br/>
+                    -black box test<br/>
+                    -<br/>
+                    -<br/>
+                    -<br/>
+                -certification is a technical rep....<br/>
+                            the end user should approve that the end product is full functioning .<br/>
+                -operation of a techniques:<br/>
+                            -parallel operation<br/>
+                            -<br/>
+                            -<br/>
+                            
+                Alternative developmemt techniques<br/>
+                ------------------------------------<br/>
+                -globalistations has increase.....<br/>
+
+                develoment models<br/>
+                ------------------------<br/>
+                -protatyping <br/>
+                -rapid application development<br/>
+                -Agile software development.<br/>
+
+                -auditor - should ensure that backup is done.<br/>
+                        -watch that  the is security oversite.<br/>
+                                
+
+
+
+
                    <h3> Network types</h3> 
                    MAN - Interconnects region larger than LAN<br/>
                    LAN Computers ommunicatig over large area of na=etworks<br/>
@@ -242,6 +416,15 @@ function Cmt446() {
                     SAN - Storage Area Networks - Network of storage disks and devices 
                     connect multiple servers to a centralised disk
 
+                    <h3>Network Standards and Protocols </h3>
+                     Should evaluate use of capacity monitoring tools to ensure IT services meet org needs <br/>
+                     Goal is to provide : <br/>
+                     Interopperability <br/>
+                     availability<br/>
+                    flexibility <br/>
+                    maintainability<br/>
+
+                    <h3>OSI Model - seven layers</h3>
                     </p>
         </div>
     )
