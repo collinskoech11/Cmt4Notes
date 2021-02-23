@@ -105,10 +105,10 @@ function Cmt408() {
         -process group  are not project phases,it  focus on the project management phases while SDLC focus<br/>
         on the software engineering phasees processes, tools and techniques for building and/ implementing the<br/>
         IT solutions.<br/>
-        -
-        -
+        -<br/>
+        -<br/>
         
-        -
+        -<br/>
        <h3> N/B Group discussion AND PRESENTATION(NEXTWEEK)</h3>
         ===============================================<br/>
         4)with an aid/m of a diagram Discuss the  five process group and their deliverables(the reports)(five marks)<br/>
@@ -168,9 +168,9 @@ function Cmt408() {
         -PERT  can define all task and activites required for project, the develop a realistic timeframe for project competion.<br/>
         while Cantt is used to check how long each task is exprected to take , also great for visualizing<br/>
         the order of specific tasks as well as the teams and individuals responsible for each task.<br/>
-        -
-        -
-        -
+        -<br/>
+        -<br/>
+        -<br/>
       <h3>  8)-Discuss  the 4 constraints of a project / sw project (time, scope, quality)</h3>
         ------------------------------------------------------------------------------------------------------------
         -Time constraint - refers to the project's shedule for completion, including the deadline <br/>
@@ -180,19 +180,19 @@ function Cmt408() {
                           functions.<br/>
         -Cost constraint - comprises all of the financial resources needed to complete the project on time<br/>
 
-        -
-        -
+        -<br/>
+        -<br/>
         <h3>9)what is PMBOK</h3>
         ---------------<br/>
         -Stands for Project managemen Body of Knowledge.<br/>
         -Is is the entire collection of processes, best practices, terminologies and guideline that are accepted as standard within<br/>
         the project management industry.<br/>
        <h3> 10)Differenciate between mgt, project management and software project management</h3>
-        --------------------------------------------------------------------------------
-        -
+        --------------------------------------------------------------------------------<br/>
+        -<br/>
 
-        summary notes
-        -----------------
+        summary notes<br/>
+        -----------------<br/>
 
        <h3> Project life cycle management </h3>
         -----------------------------------
@@ -242,7 +242,7 @@ function Cmt408() {
         Why do we need software project management<br/>
         ---------------------------------------------<br/>
         -software products are tailor made to fit client requirement.<br/>
-        -Underlying technology changes and advances so frequently and rapidly tha experience  of one product may not be  
+        -Underlying technology changes and advances so frequently and rapidly tha experience  of one product may not be  <br/>
         applied to the other one.<br/>
         -The triple constaints for software project are:<br/>
                           time<br/>
@@ -271,7 +271,7 @@ function Cmt408() {
                                         -act as project spokesperson.<br/>
 
 
-        software management activities
+       <h3> software management activities</h3>
         ---------------------------------
         -It contains planning of project, deciding scope of software product, estimate the cost of various terms.<br/>
         shedule of tasks and  event and resource management.<br/>
@@ -280,8 +280,8 @@ function Cmt408() {
                       scope management<br/>
                       project estimation<br/>
 
-        -Project planning <br/>
-        -----------------------
+        <h3>-Project planning </h3><br/>
+        -----------------------<br/>
         -Performed  before the productions of software actually starts.<br/>
         -Rather is it a set of multiple processes, which facilitaes software production.<br/>
         -May include:<br/>
