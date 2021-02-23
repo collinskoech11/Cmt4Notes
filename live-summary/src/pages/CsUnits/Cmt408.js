@@ -342,7 +342,8 @@ function Cmt408() {
                     <h5>Quality Management        | Quality Metrics</h5>
                     <h5>                          | Checklist</h5>
                     <h5>                          | Quality Control Charts </h5>
-                    <h5>                          | Parento Diagrams</h5>
+                    <h5>                          | Pareto Diagrams</h5>
+                    <h5>                          | FishBone Diagrams</h5>
 
             </p>
         </div>
