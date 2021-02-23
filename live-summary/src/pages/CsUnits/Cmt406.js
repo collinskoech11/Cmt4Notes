@@ -345,7 +345,10 @@ function Cmt406() {
         
         REfers to data and information security 
         Data is collection of raw facts  THe data is then procceseed into information 
-        <h3>Information Privacy</h3> - THe rights of individuals and companies to deny or restrict the collection and use of information around them 
+        <h3>Information Privacy</h3>
+         - THe rights of individuals and companies to deny or restrict the collection and use of information around them 
+
+         <h3>Ways Computer Technology THreatens Our Privacy</h3>
             </p>
         </div>
     )
