@@ -333,6 +333,7 @@ function Cmt408() {
                     <h5>                          | Critical Path Analysis</h5>
                     <h5>                          | Crashing of tasks </h5>
                     <h5>                          | Fast TRacking</h5>
+                    <h5> HR Management            | Motivational Techniques</h5>
             </p>
         </div>
     )
