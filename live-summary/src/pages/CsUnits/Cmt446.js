@@ -149,10 +149,10 @@ function Cmt446() {
                         -Reduce risk ie installing a firewall in place. <br/>
                         -accepting risk - Retaining the potential cost  that is obtained by ...<br/>
                         -Transfering the risk- the organisation faces the risk on behave of someone ie the insurance.<br/>
-                        -
+                        -<br/>
                         
               <h3>  Risk based audit</h3><br/>
-                ----------------------
+                ----------------------<br/>
             -Steps followed in a :<br/>
                     1-gather information and plan<br/>
                     2 -understand the bussines<br/>
@@ -168,7 +168,7 @@ function Cmt446() {
                 
                 
                <h3> Auditing of internal control </h3><br/>
-                ----------------------------------
+                ----------------------------------<br/>
                 -conterol tipocal start with high level policy and applies in all area in company <br/>
                 -information system - verifies that the information system are mentained in a controled state <br/>
                 -information system procedures -procedures that provide reasonable assurance for the control of database system. <br/>
@@ -182,15 +182,15 @@ function Cmt446() {
                         -monitor and evaluate <br/>
             
             
-            Audit process  <br/>
-            ----------------
+           <h3> Audit process</h3> <br/>
+            ----------------<br/>
             -An audit can be defined an a plan, independent and document accessment to determine whether agree upon required and standard of operation have been made. <br/>
             -An information system audit is similar to the other audit  ie finanncial accept it deals with computerised system that hundles information. <br/>
             -this system can be fully computerised or still be partially audited <br/>
-            -An auditor should build confident and trust.
+            -An auditor should build confident and trust.<br/>
             
             
-            Audit classification <br/>
+           <h3> Audit classification</h3> <br/>
             ------------------------
             -Audit can either be internal or external, they include: <br/>
                         -Administrative audit <br/>
@@ -200,7 +200,7 @@ function Cmt446() {
                         
                         
                     
-            -Audit methodology <br/>
+           <h3> -Audit methodology</h3> <br/>
             -------------------------
             -A documentation approach for performing ...... <br/>
             -Designed to meet........ <br/>
@@ -209,12 +209,12 @@ function Cmt446() {
                     .statement of scope objective <br/>
                         
             -   
-            audit process <br/>
+           <h3> audit process</h3> <br/>
             ---------------<br/>
             -<br/>
             -<br/>
 
-            Audit sampling  <br/>
+           <h3> Audit sampling </h3> <br/>
             ---------------
             -They two type of audit sampling. <br/>
             -statistical sample is based on probability. <br/>
@@ -227,6 +227,21 @@ function Cmt446() {
                 
             -evidence - is information that an auditor obtain to assist. <br/>
                     - should be sufficient, reliable, usable relavant and effective. <br/>
+                   <h3> Network types</h3> 
+                   MAN - Interconnects region larger than LAN<br/>
+                   LAN Computers ommunicatig over large area of na=etworks<br/>
+                   WAN - covers the largest geographical distance<br/>
+
+                   <h3>Other</h3>
+                   PAN - Personal area network - persoal handheld devices<br/>
+                   WPAN Wireless Persona area network<br/>
+                   e.g Bluetooth
+                   Class  1 upto 100m
+                           2 200m 
+
+                    SAN - Storage Area Networks - Network of storage disks and devices 
+                    connect multiple servers to a centralised disk
+
                     </p>
         </div>
     )
