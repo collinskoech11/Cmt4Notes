@@ -237,7 +237,7 @@ function Cmt408() {
         -----------------------<br/>
         -A complete procedure of software development from requirement gathering <br/>
           to testing and maintanance.<br/>
-        -carried out according to   the executing methodologies, in a specification       period of time to achive intendent software products.<br/>
+        -carried out according to   the executing methodologies, in a specification period of time to achive intendent software products.<br/>
         
         Why do we need software project management<br/>
         ---------------------------------------------<br/>
@@ -250,48 +250,48 @@ function Cmt408() {
                           cost<br/>
                           quality.<br/>
                           
-        software project manager
-        ----------------------------------
-        -A person who undertakes the responsibility of executing the software project.
-        -May never directly involve in producing the end product but he controls and manages the activities inolved in production.
-        -closely monitors  the development  proces, prepares and executes various plans, 
-                              -arranges necessary and adequate resources,
-                              - maintain communication among all team members in order to address issues of cost, budget,
-                              resource, time and quality and customer satisfaction.
-                              -managing people
-                                      -Act as  project leader
-                                      -Liaison with stakeholders
-                                      -setting up reporting hierachy
-                              -managing project
-                                        -defining and setting up project scope
-                                        -managing project management activities
-                                        -monitoring  progress and performance
-                                        -Risk analysis every phase
-                                        -Take necessary steps to avoid or come out of propblems
-                                        -act as project spokesperson.
+        software project manager<br/>
+        ------------------------<br/>
+        -A person who undertakes the responsibility of executing the software project.<br/>
+        -May never directly involve in producing the end product but he controls and manages the activities inolved in production.<br/>
+        -closely monitors  the development  proces, prepares and executes various plans, <br/>
+                              -arranges necessary and adequate resources,<br/>
+                              - maintain communication among all team members in order to address issues of cost, budget,<br/>
+                              resource, time and quality and customer satisfaction.<br/>
+                              -managing people<br/>
+                                      -Act as  project leader<br/>
+                                      -Liaison with stakeholders<br/>
+                                      -setting up reporting hierachy<br/>
+                              -managing project<br/>
+                                        -defining and setting up project scope<br/>
+                                        -managing project management activities<br/>
+                                        -monitoring  progress and performance<br/>
+                                        -Risk analysis every phase<br/>
+                                        -Take necessary steps to avoid or come out of propblems<br/>
+                                        -act as project spokesperson.<br/>
 
 
         software management activities
         ---------------------------------
-        -It contains planning of project, deciding scope of software product, estimate the cost of various terms.
-        shedule of tasks and  event and resource management.
-        - project management activities.
-                      project planning
-                      scope management
-                      project estimation
+        -It contains planning of project, deciding scope of software product, estimate the cost of various terms.<br/>
+        shedule of tasks and  event and resource management.<br/>
+        - project management activities.<br/>
+                      project planning<br/>
+                      scope management<br/>
+                      project estimation<br/>
 
-        -Project planning 
+        -Project planning <br/>
         -----------------------
-        -Performed  before the productions of software actually starts.
-        -Rather is it a set of multiple processes, which facilitaes software production.
-        -May include:
-                    Scope management - includes all the activites , process need to be done in order to make a
-                                        a deliverable software product.
-                                        -It is essential because it  boundaries of the project by clearly defining 
-                                        what would be done in the project and  what would not be done.
-                                        -In it  the phase you:
-                                                      define the scope
-                                                      decide i
+        -Performed  before the productions of software actually starts.<br/>
+        -Rather is it a set of multiple processes, which facilitaes software production.<br/>
+        -May include:<br/>
+                    Scope management - includes all the activites , process need to be done in order to make a<br/>
+                                        a deliverable software product.<br/>
+                                        -It is essential because it  boundaries of the project by clearly defining <br/>
+                                        what would be done in the project and  what would not be done.<br/>
+                                        -In it  the phase you:<br/>
+                                                      define the scope<br/>
+                                                      decide i<br/>
                     project estimation<br/>
                     projection Estimation techniquires<br/>
                     project scheduling<br/>
