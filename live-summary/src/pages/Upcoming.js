@@ -26,7 +26,7 @@ function Upcoming() {
         </Collapsible>
 
         <Collapsible  trigger="SOFTWARE PROJECT MANAGEMENT">
-        <h5> What are the roles of the following in a project:
+        <h5> What are the roles of the following in a project:<br/>
                Top Management <br/> Project Board <br/> Project Management <br/>  Project Team</h5>
         </Collapsible>
 

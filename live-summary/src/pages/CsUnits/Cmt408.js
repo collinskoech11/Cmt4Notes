@@ -310,7 +310,7 @@ function Cmt408() {
 
                     <h4>KNOWLEDGE AREA              Tools and Tech</h4>
                     <h5>Intergration Management     Project Selection Methods</h5>
-                    <h5>&nbsp;Project Management Methodologies</h5>
+                    <h5>.&nbsp;Project Management Methodologies</h5>
                     <h5>&nbsp; Stakeholder analysis</h5>
                     <h5>&nbsp;Project Charter</h5>
                     <h5>&nbsp;Change Request</h5>
