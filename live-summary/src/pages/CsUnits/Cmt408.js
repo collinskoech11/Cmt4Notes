@@ -308,7 +308,7 @@ function Cmt408() {
                     <h3>Tools and techniques
                     </h3>
 
-                    <h4>Knowledge Area            | Tools and Tech</h4>
+                    <h4>KNOWLEDGE AREA            | Tools and Tech</h4>
                     <h5>Intergration Management   | Project Selection Methods</h5>
                     <h5>                          | Project Management Methodologies</h5>
                     <h5>                          | Stakeholder analysis</h5>
@@ -320,9 +320,19 @@ function Cmt408() {
                     <h5>                          | Work breakdown Structures</h5>
                     <h5>                          | Mind Maps</h5>
                     <h5>                          | Requirements analysis</h5>
-                    <h5>Scope Crippling           | Scope Management PLans </h5>
+                    <h5>                          | Scope Management PLans </h5>
                     <h5>                          | SCope Verification Techniques</h5>
                     <h5>                          | SCope Change Controls</h5>
+                    <h5> COST MANAGEMENT          | Net present value</h5>
+                    <h5>                          | REturn on investments </h5>
+                    <h5>                          | Payback analysis</h5>
+                    <h5>                          | Earned Value Management</h5>
+                    <h5>                          | Project Portfolio Management</h5>
+                    <h5> Time Management          | Gant Charts</h5>
+                    <h5>                          | Network DDiagrams</h5>
+                    <h5>                          | Critical Path Analysis</h5>
+                    <h5>                          | Crashing of tasks </h5>
+                    <h5>                          | Fast TRacking</h5>
             </p>
         </div>
     )
