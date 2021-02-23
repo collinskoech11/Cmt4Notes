@@ -318,6 +318,7 @@ function Cmt408() {
                     <h5>                          | Review Meetings</h5>
                     <h5> Scope Management         | Scope Statements </h5>
                     <h5>                          | Work breakdown Structures</h5>
+                    <h5>                          | Mine Maps</h5>
             </p>
         </div>
     )
