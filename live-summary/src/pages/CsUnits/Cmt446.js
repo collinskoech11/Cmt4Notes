@@ -104,12 +104,12 @@ function Cmt446() {
                 
                 
                <h3> Procedure documents</h3><br/>
-                -----------------------
+                -----------------------<br/>
                 -information system risk accessment<br/>
                 -irregularities and business act<br/>
                 
                 <h3>ISACA   code of ethics</h3><br/>
-                -------------------------
+                -------------------------<br/>
                 -Ethics goes beyond human requirement.<br/>
                 -they are define values and principles that define human behavior.<br/>
                 -They include:<br/>
@@ -120,7 +120,7 @@ function Cmt446() {
                             -maintain the privacy of information obtain in the cause of their duties unless required by the authory.<br/>
                             
                 <h3>Risk analysis</h3><br/>
-                ---------------
+                ---------------<br/>
                 -Model networks and systems are highly complex.<br/>
                 - risk is the pottential for harm.<br/>
                 -Vulnerability - is the weakness in a system or process.<br/>
@@ -210,9 +210,9 @@ function Cmt446() {
                         
             -   
             audit process <br/>
-            ---------------
-            -
-            -
+            ---------------<br/>
+            -<br/>
+            -<br/>
 
             Audit sampling  <br/>
             ---------------
