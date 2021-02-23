@@ -344,6 +344,23 @@ function Cmt408() {
                     <h5>                          | Quality Control Charts </h5>
                     <h5>                          | Pareto Diagrams</h5>
                     <h5>                          | FishBone Diagrams</h5>
+                    <h5>Risk Management           | Risk Management PLan</h5>
+                    <h5>                          | Risk REgisters</h5>
+                    <h5>                          | Probability/Impact matrices</h5>
+                    <h5>                          | Risk Markings</h5>
+                    <h5>Communication Management  | Communication Management Plans</h5>
+                    <h5>                          | Kikoff meetings</h5>
+                    <h5>                          | Conflict Management</h5>
+                    <h5>                          | Communications Media Selection</h5>
+                    <h5>                          | Status and progress reports</h5>
+                    <h5>                          | Virtual Communications</h5>
+                    <h5>                          | Templates</h5>
+                    <h5>                          | Project Websites</h5>
+                    <h5>Procurement Management    | Make or buy analysis</h5>
+                    <h5>                          | Contracts</h5>
+                    <h5>                          | Reequest for proposal and quotes</h5>
+                    <h5>                          | Source selections</h5>
+                    <h5>                          | Supplier evaluation matrices</h5>
 
             </p>
         </div>
