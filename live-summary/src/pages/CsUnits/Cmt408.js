@@ -237,13 +237,13 @@ function Cmt408() {
         -----------------------<br/>
         -A complete procedure of software development from requirement gathering <br/>
           to testing and maintanance.<br/>
-        -carried out according to   the executing methodologies, in a specification       period of time to achive intendent software products.
+        -carried out according to   the executing methodologies, in a specification       period of time to achive intendent software products.<br/>
         
-        Why do we need software project management
-        ---------------------------------------------
-        -software products are tailor made to fit client requirement.
+        Why do we need software project management<br/>
+        ---------------------------------------------<br/>
+        -software products are tailor made to fit client requirement.<br/>
         -Underlying technology changes and advances so frequently and rapidly tha experience  of one product may not be  
-        applied to the other one.
+        applied to the other one.<br/>
         -The triple constaints for software project are:
                           time
                           scope
@@ -292,18 +292,24 @@ function Cmt408() {
                                         -In it  the phase you:
                                                       define the scope
                                                       decide i
-                    project estimation
-                    projection Estimation techniquires
-                    project scheduling
-                    Resource management.
-                    project risk management
-                    Risk management process
-                    Project execution & monitoing 
-                    project communcation management.
+                    project estimation<br/>
+                    projection Estimation techniquires<br/>
+                    project scheduling<br/>
+                    Resource management.<br/>
+                    project risk management<br/>
+                    Risk management process<br/>
+                    Project execution & monitoing <br/>
+                    project communcation management.<br/>
          <h3>Classification of Projects</h3>
                     1: Engineering and Construction Projects <br/>
                     2: Introduction of new systems<br/>
                     3: REsponse to deadlines or changes<br/>
+
+                    <h3>Tools and techniques
+                    </h3>
+
+                    <h4>Knowledge Area            | Tools and Tech</h4>
+                    <h5>Intergration Management   | Project Selection Methods</h5>
               
             </p>
         </div>
