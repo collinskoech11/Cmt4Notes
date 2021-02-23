@@ -318,7 +318,11 @@ function Cmt408() {
                     <h5>                          | Review Meetings</h5>
                     <h5> Scope Management         | Scope Statements </h5>
                     <h5>                          | Work breakdown Structures</h5>
-                    <h5>                          | Mine Maps</h5>
+                    <h5>                          | Mind Maps</h5>
+                    <h5>                          | Requirements analysis</h5>
+                    <h5>Scope Crippling           | Scope Management PLans </h5>
+                    <h5>                          | SCope Verification Techniques</h5>
+                    <h5>                          | SCope Change Controls</h5>
             </p>
         </div>
     )
