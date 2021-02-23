@@ -310,57 +310,57 @@ function Cmt408() {
 
                     <h4>KNOWLEDGE AREA              Tools and Tech</h4>
                     <h5>Intergration Management     Project Selection Methods</h5>
-                    <h5>                           Project Management Methodologies</h5>
-                    <h5>                           Stakeholder analysis</h5>
-                    <h5>                           Project Charter</h5>
-                    <h5>                           Change Request</h5>
-                    <h5>                           Change Control Board</h5>
-                    <h5>                            Review Meetings</h5>
+                    <h5>&nbsp;Project Management Methodologies</h5>
+                    <h5>&nbsp; Stakeholder analysis</h5>
+                    <h5>&nbsp;Project Charter</h5>
+                    <h5>&nbsp;Change Request</h5>
+                    <h5>&nbsp;Change Control Board</h5>
+                    <h5>&nbsp; Review Meetings</h5>
                     <h5> Scope Management          Scope Statements </h5>
-                    <h5>                           Work breakdown Structures</h5>
-                    <h5>                           Mind Maps</h5>
-                    <h5>                           Requirements analysis</h5>
-                    <h5>                           Scope Management PLans </h5>
-                    <h5>                           SCope Verification Techniques</h5>
-                    <h5>                           SCope Change Controls</h5>
+                    <h5>&nbsp;Work breakdown Structures</h5>
+                    <h5>&nbsp;Mind Maps</h5>
+                    <h5>&nbsp;Requirements analysis</h5>
+                    <h5>&nbsp;Scope Management PLans </h5>
+                    <h5>&nbsp;SCope Verification Techniques</h5>
+                    <h5>&nbsp;SCope Change Controls</h5>
                     <h5> COST MANAGEMENT           Net present value</h5>
-                    <h5>                           REturn on investments </h5>
-                    <h5>                           Payback analysis</h5>
-                    <h5>                           Earned Value Management</h5>
-                    <h5>                           Project Portfolio Management</h5>
+                    <h5>&nbsp; REturn on investments </h5>
+                    <h5>&nbsp;Payback analysis</h5>
+                    <h5>&nbsp;Earned Value Management</h5>
+                    <h5>&nbsp;Project Portfolio Management</h5>
                     <h5> Time Management           Gant Charts</h5>
-                    <h5>                           Network DDiagrams</h5>
-                    <h5>                           Critical Path Analysis</h5>
-                    <h5>                           Crashing of tasks </h5>
-                    <h5>                           Fast TRacking</h5>
+                    <h5>&nbsp;Network DDiagrams</h5>
+                    <h5>&nbsp;Critical Path Analysis</h5>
+                    <h5>&nbsp;Crashing of tasks </h5>
+                    <h5>&nbsp;Fast TRacking</h5>
                     <h5> HR Management             Motivational Techniques</h5>
-                    <h5>                           Empathic Listening</h5>
-                    <h5>                           Responsibility Assignment Matrix</h5>
-                    <h5>                           Project organisational charts</h5>
-                    <h5>                           Resource Histograms</h5>
-                    <h5>                           TEam Building Excercise</h5>
+                    <h5>&nbsp;Empathic Listening</h5>
+                    <h5>&nbsp;Responsibility Assignment Matrix</h5>
+                    <h5>&nbsp;Project organisational charts</h5>
+                    <h5>&nbsp;Resource Histograms</h5>
+                    <h5>&nbsp;TEam Building Excercise</h5>
                     <h5>Quality Management         Quality Metrics</h5>
-                    <h5>                           Checklist</h5>
-                    <h5>                           Quality Control Charts </h5>
-                    <h5>                           Pareto Diagrams</h5>
-                    <h5>                          FishBone Diagrams</h5>
+                    <h5>&nbsp;Checklist</h5>
+                    <h5>&nbsp;Quality Control Charts </h5>
+                    <h5>&nbsp;Pareto Diagrams</h5>
+                    <h5>&nbsp;FishBone Diagrams</h5>
                     <h5>Risk Management           Risk Management PLan</h5>
-                    <h5>                          Risk REgisters</h5>
-                    <h5>                          Probability/Impact matrices</h5>
-                    <h5>                          Risk Markings</h5>
+                    <h5>&nbsp;Risk REgisters</h5>
+                    <h5>&nbsp;Probability/Impact matrices</h5>
+                    <h5>&nbsp;Risk Markings</h5>
                     <h5>Communication Management  Communication Management Plans</h5>
-                    <h5>                          Kikoff meetings</h5>
-                    <h5>                          Conflict Management</h5>
-                    <h5>                          Communications Media Selection</h5>
-                    <h5>                          Status and progress reports</h5>
-                    <h5>                          Virtual Communications</h5>
-                    <h5>                          Templates</h5>
-                    <h5>                          Project Websites</h5>
+                    <h5>&nbsp;Kikoff meetings</h5>
+                    <h5>&nbsp; Conflict Management</h5>
+                    <h5>&nbsp;Communications Media Selection</h5>
+                    <h5>&nbsp;Status and progress reports</h5>
+                    <h5>&nbsp;Virtual Communications</h5>
+                    <h5> &nbsp;Templates</h5>
+                    <h5>&nbsp; Project Websites</h5>
                     <h5>Procurement Management    Make or buy analysis</h5>
-                    <h5>                          Contracts</h5>
-                    <h5>                          Reequest for proposal and quotes</h5>
-                    <h5>                          Source selections</h5>
-                    <h5>                          Supplier evaluation matrices</h5>
+                    <h5>&nbsp; Contracts</h5>
+                    <h5>&nbsp;Reequest for proposal and quotes</h5>
+                    <h5>&nbsp;Source selections</h5>
+                    <h5>&nbsp; Supplier evaluation matrices</h5>
 
 
                     <h3>Project Successs Factors</h3>
