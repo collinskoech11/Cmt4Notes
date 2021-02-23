@@ -244,11 +244,11 @@ function Cmt408() {
         -software products are tailor made to fit client requirement.<br/>
         -Underlying technology changes and advances so frequently and rapidly tha experience  of one product may not be  
         applied to the other one.<br/>
-        -The triple constaints for software project are:
-                          time
-                          scope
-                          cost
-                          quality.
+        -The triple constaints for software project are:<br/>
+                          time<br/>
+                          scope<br/>
+                          cost<br/>
+                          quality.<br/>
                           
         software project manager
         ----------------------------------
