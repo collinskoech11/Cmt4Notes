@@ -398,6 +398,12 @@ function Cmt408() {
                     Sales impact on the magazine<br/>
                     Cost of maintaining the whole system<br/>
                     Does the current setup alow the new upgrade<br/>
+
+
+                    <h3>Organisational isssues</h3>
+                    Manpower availability<br/>
+                    Sustainability<br/>
+                    How will the website affect the print audt<br/>
                                 </p>
         </div>
     )
