@@ -334,6 +334,16 @@ function Cmt408() {
                     <h5>                          | Crashing of tasks </h5>
                     <h5>                          | Fast TRacking</h5>
                     <h5> HR Management            | Motivational Techniques</h5>
+                    <h5>                          | Empathic Listening</h5>
+                    <h5>                          | Responsibility Assignment Matrix</h5>
+                    <h5>                          | Project organisational charts</h5>
+                    <h5>                          | Resource Histograms</h5>
+                    <h5>                          | TEam Building Excercise</h5>
+                    <h5>Quality Management        | Quality Metrics</h5>
+                    <h5>                          | Checklist</h5>
+                    <h5>                          | Quality Control Charts </h5>
+                    <h5>                          | Parento Diagrams</h5>
+
             </p>
         </div>
     )
