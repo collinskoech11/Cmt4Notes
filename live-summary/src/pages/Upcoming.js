@@ -26,7 +26,8 @@ function Upcoming() {
         </Collapsible>
 
         <Collapsible  trigger="SOFTWARE PROJECT MANAGEMENT">
-                <iframe title="iframe" src='./docx/cmt406' width='100%' height='300px' frameborder='0'>This is an embedded <a  href='http://office.com'>Microsoft Office</a> document, powered by <a  href='http://office.com/webapps'>Office Online</a>.</iframe>
+        <h5> What are the roles of the following in a project:
+               Top Management <br/> Project Board <br/> Project Management <br/>  Project Team</h5>
         </Collapsible>
 
         <Collapsible  trigger="ADVANCED ARTIFICIAL INTELLIGENCE">
