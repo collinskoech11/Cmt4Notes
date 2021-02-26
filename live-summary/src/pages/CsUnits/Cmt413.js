@@ -240,6 +240,16 @@ function Cmt413() {
 
                     THe most common reason is to conttrol network traffic 
                     A router is used to connect IP networks to minimize traffic on each segment must receive 
+
+                    <h3>CharacterizingNetwork Infrastructure</h3>
+                    An important step in top down network design is to examine customers existing network design <br/>
+                    Examining the eisting network includes learning about the topology and physical structure and adressing the networks performance.
+
+                    <h3>DEvelop General Maps on these considerations </h3>
+
+                    1) Geographical information  country state or province<br/>
+                    2) WAN connections between countries <br/>
+                    3) WAN and LAN connections between buildings<br/>
                      </p>
         </div>
     )
