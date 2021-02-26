@@ -14,7 +14,7 @@ function ComputerScience() {
             </a>
             <a href="/Cmt413">
                 <div className="unit">
-                    <h1>CMT 413 <br/> Network and System Admin</h1>
+                    <h1>CMT 413 <br/> Network Design and Admin</h1>
                 </div>
             </a>
             <a href="/Cmt446">
