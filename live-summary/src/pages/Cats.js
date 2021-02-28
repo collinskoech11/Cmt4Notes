@@ -8,7 +8,7 @@ function Cats() {
     return (
         <>
             <Collapsible  trigger="ICT AND SOCIETY">
-                <h3>15th March</h3>
+                <h3>1st March</h3>
                 <p>Physical Cat <Emoji text=" :+1:  :)" /> </p>    
             </Collapsible>
 

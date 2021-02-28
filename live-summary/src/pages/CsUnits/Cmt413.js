@@ -245,11 +245,27 @@ function Cmt413() {
                     An important step in top down network design is to examine customers existing network design <br/>
                     Examining the eisting network includes learning about the topology and physical structure and adressing the networks performance.
 
-                    <h3>DEvelop General Maps on these considerations </h3>
+                    <h3>Develop General Maps on these considerations </h3>
 
                     1) Geographical information  country state or province<br/>
                     2) WAN connections between countries <br/>
                     3) WAN and LAN connections between buildings<br/>
+                    4) Building floors  or rooms<br/>
+                    5) LOcation of major server<br/>
+                    6) LOcation of routers and switches<br/>
+                    7) LOcation of firewalls<br/>
+                    8) LOcation of mainframes <br/>
+                    9) LOcation of major network-management stations <br/>
+                    10)location and reach of virtual lans 
+                    11)Indications of where workstations reside
+
+                    <h3>DEtails for the map</h3>
+
+                   - LOcation for the security servers <br/>
+                   - Other network services eg DHCP DNS SNMP<br/>
+
+
+                   <h3></h3>
                      </p>
         </div>
     )
