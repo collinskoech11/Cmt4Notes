@@ -366,6 +366,14 @@ function Cmt406() {
             <h3>Can privacy protected</h3>
             Phishing- When cyber criminals target victims with emails that appear to be from a legitimate company asking for sensitive information 
             Phishing atacks are often used to dupe people into handing over credit card sales or any other informtion<br/>
+
+            ) BY privacy laws - Kenya we have the Data protection act<br/>
+            - Cyber security act<br/>
+            2) Utility softwares - Firewalls Antivirus Antispyware<br/>
+            3) Authentication and validation<br/>
+
+
+            
             </p>
         </div>
     ) 
