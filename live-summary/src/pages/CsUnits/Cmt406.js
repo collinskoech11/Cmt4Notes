@@ -356,7 +356,15 @@ function Cmt406() {
             in some cases they store your passwords and the information collected is used on potential target for web advertisements
             Cookies enable websites to collect information about users and the collected details can be sold to other companies that request it<br/>
             3) SpyWare softwares that collect user information without the users knowledge<br/> 
-            They can access your computer and sneak in as a virus<br/>
+            They can access your computer and sneak in as a virus can be used to relay information to other companies<br/>
+            e.g the internet creeates an elaboate trail of data detailing the person surfing the website however we do not want our trail to be detected
+
+            Online Information generated in the course of a business transactionis routinely used in a variety of purposes without the individuals knowledge or consent<br/>
+            3) We do not want our private life and habits exposed to 3rd parties<br/>
+
+
+            <h3>Can privacy protected</h3>
+            <h3></h3>
             </p>
         </div>
     ) 
