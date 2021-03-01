@@ -343,12 +343,11 @@ function Cmt406() {
         Patents exist for a lease of 20 years 
         <h3>Privacy </h3>
         
-        REfers to data and information security 
+        Refers to data and information security <br/>
         Data is collection of raw facts  THe data is then procceseed into information 
         <h3>Information Privacy</h3>
          - THe rights of individuals and companies to deny or restrict the collection and use of information around them 
-
-         <h3>Ways Computer Technology THreatens Our Privacy</h3>
+         <h3>Ways Computer Technology Threatens Our Privacy</h3>
             </p>
         </div>
     )
