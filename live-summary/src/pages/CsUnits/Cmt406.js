@@ -348,6 +348,9 @@ function Cmt406() {
         <h3>Information Privacy</h3>
          - THe rights of individuals and companies to deny or restrict the collection and use of information around them 
          <h3>Ways Computer Technology Threatens Our Privacy</h3>
+            Electronic profile is the combining of data into a database that can be sold to other interestedparties<br/>
+            The information in the electronic profile includes personal details such as age address marital status<br/>
+
             </p>
         </div>
     )
