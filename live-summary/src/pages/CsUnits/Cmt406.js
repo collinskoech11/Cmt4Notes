@@ -355,7 +355,8 @@ function Cmt406() {
             2) Cookies are used to identify users by web casting ecomerce and other web appplications  THey contain website userinformation thats  saved by the host website THey are used to track your footprints on the websites 
             in some cases they store your passwords and the information collected is used on potential target for web advertisements
             Cookies enable websites to collect information about users and the collected details can be sold to other companies that request it<br/>
-            3) SpyWare 
+            3) SpyWare softwares that collect user information without the users knowledge<br/> 
+            They can access your computer and sneak in as a virus<br/>
             </p>
         </div>
     ) 
