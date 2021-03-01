@@ -350,10 +350,15 @@ function Cmt406() {
          <h3>Ways Computer Technology Threatens Our Privacy</h3>
             Electronic profile is the combining of data into a database that can be sold to other interestedparties<br/>
             The information in the electronic profile includes personal details such as age address marital status<br/>
-
+            Privacy is affected when personal information is shared to other companies without your consent<br/>
+            1) Further the user begins to receive content that they had not requested<br/>
+            2) Cookies are used to identify users by web casting ecomerce and other web appplications  THey contain website userinformation thats  saved by the host website THey are used to track your footprints on the websites 
+            in some cases they store your passwords and the information collected is used on potential target for web advertisements
+            Cookies enable websites to collect information about users and the collected details can be sold to other companies that request it<br/>
+            3) SpyWare 
             </p>
         </div>
-    )
+    ) 
 }
 
 export default Cmt406
