@@ -23,8 +23,10 @@ function Cats() {
             </Collapsible>
 
             <Collapsible  trigger="ADVANCED ARTIFICIAL INTELLIGENCE">
-                <h3>Date not set</h3>
+                <h3>Date :Unknown</h3>
                 <p>Its best to keep studying <Emoji text=" :+1:  :)" /> </p>  
+                <h4>Focus area </h4>
+                <p>Dependent and INdependent variables </p>
             </Collapsible>
 
             <Collapsible  trigger="WEB APPLICATION SECURITY">
