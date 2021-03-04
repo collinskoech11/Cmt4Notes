@@ -2,8 +2,6 @@ import React from 'react';
 import './style.css';
 import Emoji from "react-emoji-render";
 import Collapsible from 'react-collapsible';
-//send to abi
-//https://github.com/BethanyJep/JobsInKE
 
 
 function Cats() {
@@ -28,11 +26,11 @@ function Cats() {
                 <h3>Date :Unknown</h3>
                 <p>Its best to keep studying <Emoji text=" :+1:  :)" /> </p>  
                 <h4>Focus area </h4>
-                <p>Dependent and INdependent variables </p>
+                <p>Dependent and Independent variables </p>
             </Collapsible>
 
             <Collapsible  trigger="WEB APPLICATION SECURITY">
-                <h3>3rd March</h3>
+                <h3>Date not set</h3>
                 <p>Its best to keep studying <Emoji text=" :+1:  :)" /> </p>  
             </Collapsible>
 
