@@ -372,6 +372,31 @@ function Cmt406() {
             2) Utility softwares - Firewalls Antivirus Antispyware<br/>
             3) Authentication and validation<br/>
 
+            <h3> Authentication</h3> 
+             is the process where the user verify that they are who they say they are <br/>
+                   In a computer system a user must be verified in order to perform functions that they are authorised to do<br/>
+
+                   Authentication process <br/>
+
+                   Identification - Present proof of identification <br/>
+
+                
+                   Verification - verify the validity of the ID <br/>
+                   (Valid) - Authenticate the user<br/>
+                   (Invalid) - Authentication failed<br/>
+
+                   THere are two common methods of authentication <br/>
+                   Biometric devices and callback systems<br/>
+
+                   <h3>Callback Systems</h3>
+
+                   Commonly used in the bank operations and bussiness transactions <br/>
+
+                   
+                   <h3>Biometric Devices</h3>
+
+                   Bioetric systems are devices tha translate personal characteristics into digital code that is compared with a digitl code stored in a database<br/>
+
 
             
             </p>

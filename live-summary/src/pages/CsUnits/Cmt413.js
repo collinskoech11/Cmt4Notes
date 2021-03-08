@@ -265,16 +265,8 @@ function Cmt413() {
                    - Other network services eg DHCP DNS SNMP<br/>
 
 
-                  <h3> Authentication</h3>  is the process where the user verify that they are who they say they are <br/>
-                   In a computer system a user must be verified in order to perform functions that they are authorised to do<br/>
+                  
 
-                   Authentication process <br/>
-
-                   Identification - Present proof of identification <br/>
-                   Verification - verify the validity of the ID <br/>
-                   (Valid) - Authenticate the user<br/>
-                   (Invalid) - Authentication failed<br/>
-                   
             
 
 
