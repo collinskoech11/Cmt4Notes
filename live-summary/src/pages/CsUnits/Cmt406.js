@@ -398,6 +398,24 @@ function Cmt406() {
                    Bioetric systems are devices tha translate personal characteristics into digital code that is compared with a digitl code stored in a database<br/>
 
 
+
+                    Authentication is important in order to safeguard against unauthorised access or use<br/> 
+
+
+                    <h3>Verification</h3>
+
+                    Act of approving or disaproving the correctness of a system eith regard to a certain formal specification <br/>
+
+                    <h3>Methods of verifiation</h3>
+
+                    Proiccess Object<br/>
+                    User Identification<br/>
+
+                    <h3>Proccess Object</h3>
+
+                    THis refers to an item that the user has (belonging to the user) for verification e.g Identification card<br/>
+                    For example emloyees can swipe their security card to enter a building <br/> 
+                    
             
             </p>
         </div>
