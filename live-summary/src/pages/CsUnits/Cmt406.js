@@ -414,8 +414,14 @@ function Cmt406() {
                     <h3>Proccess Object</h3>
 
                     THis refers to an item that the user has (belonging to the user) for verification e.g Identification card<br/>
-                    For example emloyees can swipe their security card to enter a building <br/> 
+                    For example emloyees can swipe their security card to enter a building <br/>
+                    POliceman checks the driving license to validate a driver<br/>  
+
+                    <h3>User Identification</h3>
+
+                    Is the proccesss of validating the user (Presenting passport before depature)<br/>
                     
+
             
             </p>
         </div>
