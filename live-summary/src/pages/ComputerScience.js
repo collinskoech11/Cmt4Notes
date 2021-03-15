@@ -34,7 +34,7 @@ function ComputerScience() {
             </a>
             <a href="/Cmt440">
                 <div className="unit">
-                    <h1>CMT 440 <br/> Machine Learning </h1>
+                    <h1>CMT 440 <br/>Advanced Artificial Intelligence </h1>
                 </div>
             </a>
         </div>
