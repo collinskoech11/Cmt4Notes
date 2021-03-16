@@ -229,7 +229,16 @@ function Cmt440() {
                 <h3>Polynomial REgression</h3>
                 <h4>ADvantages </h4>
                 High variance meabs data passes through most data opoints and this results in overfitting \
-                As the model complexity increases the bias increases 
+                As the model complexity increases the bias increases <br/>
+
+                <h3>Reinforcement Learning</h3>
+                -Reiforcement learning algorithm like Q-like are now combined with  deep learning  to create a powerful DRL model.<br/>
+                -It has been with great success in fields such as:<br/>
+                                   Robotics<br/>
+                                   Video Games<br/>
+                                   Finance<br/>
+                                   Healthcare<br/>
+                
                </p>
                </div>
                 
