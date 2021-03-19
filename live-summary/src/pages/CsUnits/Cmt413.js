@@ -266,8 +266,28 @@ function Cmt413() {
 
 
                   
+                    THe collision domain is a network section that allows traffic to flow forward and backwards<br/>
+                    A broadcast domain is a type of domain where traffic flows all over the networkTHe collision domain refers to a set of devices in which packet collision could occur unlike in the broadcast domain
+                    Predominantly in the above diagram this is how the old networks were designed
 
-            
+
+                    VLAN  is logically defined as a community of interests that limit a broadcast domain 
+                    <h3>Benefits of VLAN </h3>
+                    VLAN brought equipment advantage by reducing no of equipment that were required <br/>
+                    Vlan simplified network adminstration<br/>
+                    Traditionally the community of interest was bound to a geographicall location<br/>
+                    THati is members that belong to one community had to sit in one physical location 
+                    But with the introduction of VLANS this changed and they could sit anywhere<br/> 
+
+                    People were divided based on the applications they accesed <br/>
+                    With introduction of VLANS the overall traffic reduced<br/>
+
+                    THere was increased Security (THe divisions were now smaller broadcast domains against domains in the entire switch)<br/>
+                    
+
+                    <h3>Vlan MEMBERSHIP</h3>
+
+                    
 
 
                    <h3></h3>
