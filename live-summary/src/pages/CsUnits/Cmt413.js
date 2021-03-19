@@ -268,10 +268,10 @@ function Cmt413() {
                   
                     THe collision domain is a network section that allows traffic to flow forward and backwards<br/>
                     A broadcast domain is a type of domain where traffic flows all over the networkTHe collision domain refers to a set of devices in which packet collision could occur unlike in the broadcast domain
-                    Predominantly in the above diagram this is how the old networks were designed
+                    Predominantly in the above diagram this is how the old networks were designed<br/>
 
 
-                    VLAN  is logically defined as a community of interests that limit a broadcast domain 
+                    VLAN  is logically defined as a community of interests that limit a broadcast domain <br/>
                     <h3>Benefits of VLAN </h3>
                     VLAN brought equipment advantage by reducing no of equipment that were required <br/>
                     Vlan simplified network adminstration<br/>
@@ -287,7 +287,13 @@ function Cmt413() {
 
                     <h3>Vlan MEMBERSHIP</h3>
 
-                    
+                    i) Static Membership<br/>
+
+                    Membership based on ports <br/>
+                    In static Membership the static vlan is created by the network adminstrator then assign switch ports to the vlan and user devices<br/>
+                    Which now become members of that vlan based on the physical switch to which they are connected <br/>
+
+                    THe ports of a single switch can be assigned to multiple Vlans<br/>
 
 
                    <h3></h3>
