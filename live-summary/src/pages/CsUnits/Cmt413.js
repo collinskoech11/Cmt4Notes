@@ -295,6 +295,22 @@ function Cmt413() {
 
                     THe ports of a single switch can be assigned to multiple Vlans<br/>
 
+                    It is important to relate to which port you are creating or configuring your vlan<br/>
+                    
+                    <h3>In dynamic membership</h3>
+                     the vlans are based on a couple of parametres
+                     Mac address <br/>
+                     Protocol type <br/>
+        
+                     Subnet based<br/>
+                    
+                    THere are two commmon designs used when creating vlans <br/>
+                    i) LOgical segmentation of departments<br/> 
+                    ii) Design VLAN based on applications<br/> 
+
+                    All ports connectet to devices are accesss ports 
+                     
+
 
                    <h3></h3>
                      </p>
