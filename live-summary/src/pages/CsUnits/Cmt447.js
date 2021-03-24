@@ -1,8 +1,23 @@
-import React from 'react'
+import React, { useState } from 'react';
+import { Document, Page} from 'react-pdf'
 
 function Cmt447() {
+
+    const [numPages, setNumPages] = useState(null);
+    const [pageNumber, setPageNumber] =useState(1);
+
+    function onDocumentLoadSuccess ({ numPages }) {
+        setNumPages(numPages);
+    }
     return (
         <div className="container">
+
+            <Document
+                file="docx/cmt447.docx"
+                onLoadSuccess={onDocumentLoadSuccess}
+            >
+                <Page pageNumber={pageNumber}/>
+            </Document>
             <h1>CMT447:Web Application Security</h1>
             <br/>
             <p>
@@ -59,11 +74,11 @@ function Cmt447() {
                                 
             Technolofies to impliment encryption - DH differ-Hellman)<br/>
                                                     PGP prettty good privacy)<br/>
-                                                    -> Information Security<br/>
-             -> Physical Security <br/>
-             -> Database Security<br/>
-             ->Application Security <br/>
-             -> Server Security <br/> </p>
+                                                    Information Security<br/>
+            Physical Security <br/>
+            Database Security<br/>
+            Application Security <br/>
+            Server Security <br/> </p>
         </div>
     )
 }
