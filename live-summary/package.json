@@ -20,6 +20,7 @@
     "react-fade-in": "^2.0.0",
     "react-loading": "^2.0.3",
     "react-lottie": "^1.2.3",
+    "react-pdf": "^5.2.0",
     "react-responsive-carousel": "^3.2.11",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",

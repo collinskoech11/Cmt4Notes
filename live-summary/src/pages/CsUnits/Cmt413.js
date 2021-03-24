@@ -308,7 +308,12 @@ function Cmt413() {
                     i) LOgical segmentation of departments<br/> 
                     ii) Design VLAN based on applications<br/> 
 
-                    All ports connectet to devices are accesss ports 
+                    All ports connectet to devices are accesss ports and all ports connected between switches are trunk ports<br/>
+                    Some ports on switches are hybrid (an be access ports or trunk ports)<br/> 
+                    Access ports remove vlan tags before forwarding them<br/>
+
+                    For the trunk frames they can either be tagged or untagged <br/>
+                    For the hybrid ports they can either be tagged or untagged however they are port to port based <br/> 
                      
 
 
