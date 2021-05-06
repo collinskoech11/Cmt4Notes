@@ -2,6 +2,7 @@ import React from 'react';
 import {Nav,Navbar,NavDropdown} from 'react-bootstrap';
 
 function Navpage() {
+    
     return (
     <>
         <Navbar bg="blue" expand="lg">
@@ -23,8 +24,6 @@ function Navpage() {
                 </NavDropdown>
                 <Nav.Link href="https://github.com/collinskoech11/Cmt4Notes">Collaborators</Nav.Link>
                 </Nav>
-
-               
             </Navbar.Collapse>
         </Navbar>
     </>

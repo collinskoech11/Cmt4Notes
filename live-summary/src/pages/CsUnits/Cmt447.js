@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Document, Page} from 'react-pdf'
+import { Document, Page} from 'react-pdf';
+import samplePDF from './cmt4472.pdf';
 
 function Cmt447() {
 
@@ -13,11 +14,13 @@ function Cmt447() {
         <div className="container">
 
             <Document
-                file="docx/cmt447.docx"
+                file={samplePDF}
                 onLoadSuccess={onDocumentLoadSuccess}
             >
                 <Page pageNumber={pageNumber}/>
+                <p>Page {pageNumber} of {numPages}</p>
             </Document>
+            <embed src="cmt4472.pdf" width="100%" height="auto" />
             <h1>CMT447:Web Application Security</h1>
             <br/>
             <p>
