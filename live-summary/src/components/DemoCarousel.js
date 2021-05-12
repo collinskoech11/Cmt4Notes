@@ -16,7 +16,7 @@ class DemoCarousel extends Component {
                 </div>
                 <div className="contain">
                     <img src="https://source.unsplash.com/1000x200/?Macbook" alt="Branch head profile" />
-                    <h2>OPen source platform</h2>
+                    <h2>Open source platform</h2>
                 </div>
             </Carousel>
         );
