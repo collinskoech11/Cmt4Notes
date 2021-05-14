@@ -25,6 +25,7 @@ function Navpage() {
                 <Nav.Link href="https://github.com/collinskoech11/Cmt4Notes">Collaborators</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
+            
         </Navbar>
     </>
     )
