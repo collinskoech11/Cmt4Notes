@@ -22,7 +22,7 @@ function Navpage() {
                    
                     <NavDropdown.Item href="/System">Suggestions </NavDropdown.Item>
                 </NavDropdown>
-                <Nav.Link href="https://github.com/collinskoech11/Cmt4Notes">Collaborators</Nav.Link>
+                <Nav.Link href="https://github.com/collinskoech11/Cmt4Notes">Contributors</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
             
